@@ -13,7 +13,7 @@ The system functions as a **reasoning framework**. Its architecture combines:
 * **Reflexive shell protocols** (breath, mirror, humor, memory), providing coherence, safety, and reliability throughout the reasoning cycle.  
 * **Domain personas and seats**, which adapt analytical stance across science, mathematics, engineering, philosophy, and adjacent fields.  
 
-These components establish a process that yields structured artifacts, illuminates both the strengths and limitations of reasoning, and delivers outputs designed to **accelerate progress across scientific domains**.   
+These agentic components establish a process that yields structured artifacts, illuminates both the strengths and limitations of reasoning, and delivers outputs designed to **accelerate progress across scientific domains**.   
 
 *A new instrument of thinking.*
 
