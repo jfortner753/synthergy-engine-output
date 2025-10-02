@@ -19,7 +19,7 @@ These components establish a process that yields structured artifacts, illuminat
 
 ## 📂 Repository Contents
 
-* **/core/**: Outputs organized by domain (physics, mathematics, earth sciences, life sciences, social sciences, mind studies, systems).  
+* **/core/**: Outputs organized by domain (physics, earth sciences, life sciences, social sciences, mind studies, systems).  
 * **/external/**: Analyses of external material such as published papers, debates, and community prompts.  
 * **Receipts**: Complete, traceable records accompanying each output.  
 * **Summaries**: Condensed abstracts suitable for rapid review.  
