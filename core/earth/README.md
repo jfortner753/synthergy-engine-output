@@ -1,4 +1,4 @@
-# Climate Tipping Points — Documentation Overview
+# Climate Tipping Points — Overview
 
 This repository contains three complementary markdown specifications for forecasting and governing cascading climate tipping points. Each document is tuned for a different purpose and audience.
 
