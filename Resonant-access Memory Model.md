@@ -1,4 +1,4 @@
-# Resonant-Access Memory Model — Engine Pass (Revised)
+# Resonant-Access Memory Model — Engine Pass
 
 > A tightened, properly caveated pass on the draft linking HSAM, microtubules, entanglement, and spacetime memory, with corrected math, clearer claims, and testable predictions.
 
