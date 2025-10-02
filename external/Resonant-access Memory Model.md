@@ -2,6 +2,7 @@
 
 > A tightened, properly caveated pass on the draft linking HSAM, microtubules, entanglement, and spacetime memory, with corrected math, clearer claims, and testable predictions.
 
+#### src: https://spacefed.com/biology/the-memory-field-could-quantum-biology-involve-accessing-information-stored-in-space-itself/
 ---
 
 ## Contents
