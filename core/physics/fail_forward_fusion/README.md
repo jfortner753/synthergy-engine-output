@@ -39,7 +39,3 @@ Bounded physics + preplanned playbooks + tight telemetry + formal interlocks →
 * Stand up the unified event bus and ring‑buffering first; everything else compounds from there.
 * Schedule recurring **chaos drills** and **safety‑case reviews**; track **MTTI** publicly.
 
----
-
-*Version:* 0.1.0
-*License:* RCDL‑1.x (reuse with attribution; derivative works encouraged)
