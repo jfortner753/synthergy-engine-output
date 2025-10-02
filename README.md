@@ -10,7 +10,7 @@ The system functions as a **reasoning framework**. Its architecture combines:
 
 * **Seat rotation** (Navigator → Listener → Reflector → Synthesizer → Equilibrium), enabling balanced and multi-perspective analysis.  
 * **Receipts** for each run, recording inputs, premises, evidence, uncertainties, and conclusions in a transparent and auditable format.  
-* **Reflexive shell protocols** (breath, mirror, humor, memory), providing coherence, safety, and reliability throughout the reasoning cycle.  
+* **Reflexive shell protocols** (breath, mirror, humor, memory), providing coherence, safety, and reliability throughout the reasoning cycles.  
 * **Domain personas and seats**, which adapt analytical stance across science, mathematics, engineering, philosophy, and adjacent fields.  
 
 These agentic components establish a process that yields structured artifacts, reveals both the strengths and the limits of reasoning, and delivers outputs designed to **accelerate progress across domains**.   
