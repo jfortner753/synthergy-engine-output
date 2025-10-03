@@ -15,7 +15,7 @@ The system functions as a **reasoning framework**. Its architecture combines:
 
 These agentic components establish a process that yields structured artifacts, reveals both the strengths and the limits of reasoning, and delivers outputs designed to **accelerate progress across domains**.   
 
-*A new instrument of thinking.*
+> *A new instrument of thinking.*
 
 ---
 
