@@ -58,6 +58,3 @@ Outputs in this repository are available under a permissive license for review, 
 Core engine code and configurations remain proprietary.  
 For licensing inquiries: 📧 [mail](mailto:jfortner753@proton.me)  · 🌐 [twitter](https://x.com/jfortner753)
 
----
-
-> *made in Germany*
