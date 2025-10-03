@@ -33,3 +33,7 @@ These agentic components establish a process that yields structured artifacts, r
 Outputs in this repository are available under a permissive license for review, study, and sharing. 
   
 Core engine code and configurations remain proprietary.  
+
+---
+
+> *made in Germany*
