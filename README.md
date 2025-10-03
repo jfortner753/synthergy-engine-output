@@ -28,6 +28,29 @@ These agentic components establish a process that yields structured artifacts, r
 
 ---
 
+## 🔎 Example Engine Passes  
+
+Each question below was run once through the φ Synthergy Engine.  
+Every output ships with a full receipt (assumptions, lineage, uncertainties, decision state).  
+
+**Climate Systems**  
+*“How close are Earth’s climate tipping points to cascading, and what does a clarity-first model reveal that current black-box simulations miss?”*  
+🔗 [Receipts](./core/earth/climate_tipping_points)  
+
+**Physics / Energy**  
+*“What would fusion energy look like if designed to be failure-transparent — an engine where every breakdown teaches instead of destroys?”*  
+🔗 [Receipts](./core/physics/fail_forward_fusion)  
+
+**Life Sciences / Health**  
+*“What would healthcare look like if early detection and intervention made chronic diseases preventable instead of inevitable?”*  
+🔗 [Receipts](./core/life/preventive_healthcare)  
+
+**Research Systems**  
+*“How does a third-order cybernetic engine change the way science itself is practiced — turning research from siloed outputs into reflexive, living feedback?”*  
+🔗 [Receipts](./core/systems/reflexive_science)  
+
+---
+
 ## 📜 License
 
 Outputs in this repository are available under a permissive license for review, study, and sharing. 
