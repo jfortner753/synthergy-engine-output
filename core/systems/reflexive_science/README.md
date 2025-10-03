@@ -1,6 +1,6 @@
-# Reflexive Science Pack
+# Reflexive Science
 
-A tiny starter kit for running science as a **living feedback loop**. Pick a mode, adopt the seat rotation, and attach receipts to every claim.
+A tiny starter kit example for running science as a **living feedback loop**. Pick a mode, adopt the seat rotation, and attach receipts to every claim.
 
 ## Files in this folder
 
