@@ -56,5 +56,5 @@ Every output ships with a full receipt (assumptions, lineage, uncertainties, dec
 Outputs in this repository are available for review, study, and sharing. 
   
 Core engine code and configurations remain proprietary.  
-For licensing inquiries: 📧 [mail](mailto:jfortner753@proton.me)  · 🌐 [twitter](https://x.com/jfortner753)
+For laboratory or institutional licensing inquiries: 📧 [mail](mailto:jfortner753@proton.me)  · 🌐 [twitter](https://x.com/jfortner753)
 
