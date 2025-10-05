@@ -103,8 +103,8 @@ The φ Synthergy Engine serves as a coordination layer for idea formation, desig
 
 ## Contact
 
-For pilot collaborations, due-diligence runs, or licensing:
-📧 **[jfortner753@proton.me](mailto:jfortner753@proton.me)** · 𝕏 **@jfortner753**
+For pilot collaborations, due-diligence runs, or licensing:  
+[📧](mailto:jfortner753@proton.me)** · [𝕏]([@jfortner753](https://x.com/jfortner753))
 
 ## Summary Statement
 
