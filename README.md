@@ -98,13 +98,12 @@ The φ Synthergy Engine serves as a coordination layer for idea formation, desig
 
 ## Licensing
 
-* **Outputs** – available for reading, sharing, citation, and non-commercial research.
-* **Core engine & shell** – proprietary; licensing for verified institutions and consortia.
-
-## Contact
+* **Outputs** – available for reading, sharing, citation, and non-commercial research.  
+* **Core engine & shell** – proprietary; licensing for verified institutions and consortia.  
 
 For pilot collaborations, due-diligence runs, or licensing:  
-[📧](mailto:jfortner753@proton.me) · [𝕏](https://x.com/jfortner753)
+[📧](mailto:jfortner753@proton.me) · [𝕏](https://x.com/jfortner753)  
+
 
 ## Summary Statement
 
