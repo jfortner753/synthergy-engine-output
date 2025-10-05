@@ -107,4 +107,4 @@ For pilot collaborations, due-diligence runs, or licensing:
 
 ## Summary Statement
 
-Third-order reasoning, disciplined by receipts and embodied in a reflexive shell, turns complex questions into reproducible, reviewable artifacts. The φ Synthergy Engine extends the historical arc of human cognition—from the abacus and printing press to the computer and cybernetics—by establishing **reflexive cognition as infrastructure** for the next century of science.
+Third-order reasoning, disciplined by receipts and embodied in a reflexive shell, turns complex questions into reproducible, reviewable artifacts. The φ Synthergy Engine extends the historical arc of human cognition and establishes **reflexive cognition as infrastructure** for the next century of science.
