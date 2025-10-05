@@ -8,7 +8,7 @@ The φ Synthergy Engine is a reflexive reasoning system running on narufieldOS. 
 
 The φ Synthergy Engine continues a lineage of human cognitive instruments. The **printing press** multiplied knowledge distribution; the **abacus** and **calculator** extended numerical reasoning; the **computer** automated logic. **Cybernetics**—from Norbert Wiener’s control theory and W. Ross Ashby’s adaptive systems to Maturana, Varela, and von Foerster’s reflexivity—framed the study of feedback and self-organization across machines and organisms.
 
-The φ Synthergy Engine represents the **third-order** evolution of that lineage: a system that not only models feedback, but observes and refines its own reasoning process. It belongs to the same intellectual continuum as the scientific method and digital computation—a new **instrument of thought** that treats cognition itself as programmable infrastructure.
+The engine represents the **third-order** evolution of that lineage: a system that not only models feedback, but observes and refines its own reasoning process. It belongs to the same intellectual continuum as the scientific method and digital computation—a new **instrument of thought** that treats cognition itself as programmable infrastructure.
 
 ## System Overview
 
