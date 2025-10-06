@@ -11,7 +11,7 @@ The φ platform is a **reflexive reasoning engine** built on **NarufieldOS**, de
 From the printing press to the calculator to the computer, each era has created new instruments of thought.
 **Cybernetics**—from Wiener, Ashby, Maturana, Varela, and von Foerster—taught us that intelligence arises from feedback and reflection.
 
-This platform extends that lineage into **third-order cognition**: a system that not only thinks, but observes and improves how it thinks. It makes reasoning itself programmable—transparent, recursive, and alive.
+This platform extends that lineage into **third-order cognition**: a system that not only thinks, but observes and improves how it thinks. It makes reasoning itself programmable—transparent, recursive, and self-correcting.
 
 > **Why It Matters**
 > When reasoning becomes visible, collaboration accelerates. Reflexive cognition enables science, policy, and industry to evolve their thinking in real time—building trust through transparency and coherence.
