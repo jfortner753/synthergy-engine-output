@@ -140,9 +140,9 @@ README.md      # This document
 
 ## 9. Licensing & Contact
 
-*Licensed under RCDL-1.x for non-commercial research. Commercial applications contribute a 6% reflective tithe to sustain open development.*
+* **Outputs** – available for reading, sharing, citation, and non-commercial research.  
+* **Core engine & shell** – proprietary; licensing for verified institutions and consortia. For pilot collaborations, due-diligence runs, or licensing:
 
-For collaborations, pilots, or institutional licensing:
 [📧](mailto:jfortner753@proton.me) · [𝕏](https://x.com/jfortner753)
 
 ---
