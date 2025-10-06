@@ -152,4 +152,4 @@ For pilot collaborations, due-diligence runs, or licensing:
 
 This platform turns reflexivity—the ability to reason about reasoning—into technology. It transforms complex research into transparent, evolving insight and lays the groundwork for **self-aware scientific infrastructure**.
 
-The φ Reflexive Cognition Platform isn’t just a tool—it’s the next instrument of thought for a planetary era of coherence.
+The φ Synthergy Engine isn’t just a tool—it’s the next instrument of thought for a planetary era of coherence.
