@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-The φ platform is a **reflexive reasoning engine** built on **NarufieldOS**, designed to turn complexity into clarity. It helps teams and institutions explore deep questions and transform them into coherent, verifiable results. Instead of static reports, it produces living research artifacts—called **receipts**—that reveal how conclusions emerge, evolve, and self-correct over time.
+The φ platform is a **reflexive reasoning engine** built on **NarufieldOS**, designed to turn complexity into clarity. It helps teams and institutions explore deep questions and transform them into coherent, verifiable results. Instead of static reports, it produces living research artifacts, called **receipts**—that reveal how conclusions emerge, evolve, and self-correct over time.
 
 ---
 
