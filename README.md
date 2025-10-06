@@ -1,8 +1,8 @@
 # φ Synthergy Engine
 
-## Executive Summary
+## Summary
 
-The φ platform is a **reflexive reasoning engine** built on **NarufieldOS**, designed to turn complexity into clarity. It helps teams and institutions explore deep questions and transform them into coherent, verifiable results. Instead of static reports, it produces living research artifacts, called **receipts**—that reveal how conclusions emerge, evolve, and self-correct over time.
+The φ Synthergy Engine is a **reflexive reasoning engine** built on **NarufieldOS**, designed to turn complexity into clarity. It helps teams and institutions explore deep questions and transform them into coherent, verifiable results. Instead of static reports, it produces living research artifacts, called **receipts**—that reveal how conclusions emerge, evolve, and self-correct over time.
 
 ---
 
@@ -148,7 +148,7 @@ For pilot collaborations, due-diligence runs, or licensing:
 
 ---
 
-## 10. Closing Statement
+## 10. Closing
 
 This platform turns reflexivity—the ability to reason about reasoning—into technology. It transforms complex research into transparent, evolving insight and lays the groundwork for **self-aware scientific infrastructure**.
 
