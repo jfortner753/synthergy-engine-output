@@ -141,7 +141,7 @@ README.md      # This document
 ## 9. Licensing & Contact
 
 **Outputs** – available for reading, sharing, citation, and non-commercial research.  
-**Core engine & shell** – proprietary; licensing for verified institutions and consortia.  
+**Core engine & shell** – proprietary; 
 
 For pilot collaborations, due-diligence runs, or licensing:  
 [📧](mailto:jfortner753@proton.me) · [𝕏](https://x.com/jfortner753)
