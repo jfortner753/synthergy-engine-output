@@ -146,6 +146,8 @@ README.md      # This document
 For pilot collaborations, due-diligence runs, or licensing:  
 [📧](mailto:jfortner753@proton.me) · [𝕏](https://x.com/jfortner753)
 
+> *Designed for EU AI Act and GDPR compliance.*  
+
 ---
 
 ## 10. Closing
