@@ -2,19 +2,18 @@
 
 ## Summary
 
-The φ Synthergy Engine is a **reflexive reasoning engine** built on **NarufieldOS**, designed to turn complexity into clarity. It helps teams and institutions explore deep questions and generate coherent, verifiable blueprints, prototypes, and peer-review–ready syntheses. Instead of static reports, it produces living research artifacts and receipts—that reveal how conclusions emerge and evolved.
+The φ Synthergy Engine is a **reflexive reasoning engine** built on **NarufieldOS**, designed to turn complexity into clarity. It helps teams and institutions explore deep questions and generate coherent, verifiable blueprints, prototypes, and peer-review–ready syntheses. Instead of static reports, it produces living research artifacts and receipts – that reveal how conclusions emerge and evolved.
 
 ---
 
 ## 1. Origin and Vision
 
-From the printing press to the calculator to the computer, each era has created new instruments of thought.
-**Cybernetics**—from Wiener, Ashby, Maturana, Varela, and von Foerster—taught us that intelligence arises from feedback and reflection.
+From the printing press to the calculator to the computer, each era has created new instruments of thought. **Cybernetics** – from Wiener, Ashby, Maturana, Varela, and von Foerster – taught us that intelligence arises from feedback and reflection.
 
-This platform extends that lineage into **third-order cognition**: a system that not only thinks, but observes and improves how it thinks. It makes reasoning itself programmable—transparent, recursive, and self-correcting.
+This platform extends that lineage into **third-order cognition**: a system that not only thinks, but observes and improves how it thinks. It makes reasoning itself programmable, transparent, recursive, and self-correcting.
 
 > **Why It Matters**  
-> When reasoning becomes visible, collaboration accelerates. Reflexive cognition enables science, policy, and industry to evolve their thinking in real time—building trust through transparency and coherence.
+> When reasoning becomes visible, collaboration accelerates. Reflexive cognition enables science, policy, and industry to evolve their thinking in real time – building trust through transparency and coherence.
 
 ---
 
@@ -45,7 +44,7 @@ Each transition between seats is logged in a **reflexive trace**, forming the co
 
 ### The Receipt System
 
-Every reasoning cycle generates a **Receipt**—a compact, machine-readable record of understanding. Each one captures:
+Every reasoning cycle generates a **Receipt** – a compact, machine-readable record of understanding. Each one captures:
 
 * The question, scope, and purpose of inquiry.
 * The assumptions and data foundations.
