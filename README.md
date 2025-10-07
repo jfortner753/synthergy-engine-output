@@ -27,7 +27,7 @@ The platform runs on the **Octave Stack**, a layered architecture inspired by sy
 * **Reflexive Shell** – governs safety, provenance, and memory.
 * **Seat and Persona Layers** – adaptive perspectives for logic, empathy, and creativity.
 
-Together, these modules form a **living reasoning field**—balancing precision and imagination while ensuring every inquiry remains auditable and ethically grounded.
+Together, these modules form a **living reasoning field** – balancing precision and imagination while ensuring every inquiry remains auditable and ethically grounded.
 
 ### Reasoning Roles
 
