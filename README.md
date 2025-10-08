@@ -113,11 +113,12 @@ The φ platform operates as a **cognitive coordination system** for discovery, g
 * [**Preventive Healthcare**](./core/life/preventive_healthcare) – designing medicine that predicts rather than reacts.
 * [**Jane Goodall Empathy**](./core/life/jane_goodall_empathy) – modeling intergenerational transmission of care.
 * [**Climate Tipping Points**](./core/earth/climate_tipping_points) – forecasting systemic cascades with transparent models.
-  
-* **Adaptive Exploration** – understanding curiosity as an adaptive search force.
-* **Aging as Ordered Degeneration** – redefining rejuvenation as coherence restoration.
-* **Mitochondria and Light** – exploring photonic pathways in cellular metabolism.
-* **Resonant Access Memory** – testing hypotheses of biological information resonance.
+
+*External*
+* [**Adaptive Exploration**](./main/external/irruption_exploration.md) – understanding curiosity as an adaptive search force.
+* [**Aging as Ordered Degeneration**](./main/external/aging_as_ordered_degeneration-default.md) – redefining rejuvenation as coherence restoration.
+* [**Mitochondria and Light**](./main/external/mitochondria_light-default.md) – exploring photonic pathways in cellular metabolism.
+* [**Resonant Access Memory**](./external/Resonant-access%20Memory%20Model.md) – testing hypotheses of biological information resonance.
 
 ---
 
