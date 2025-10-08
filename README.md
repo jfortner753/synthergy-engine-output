@@ -8,8 +8,7 @@ The φ Synthergy Engine is a **reflexive reasoning engine** built on **Narufield
 
 ## 1. Origin and Vision
 
-From the printing press to the calculator to the computer, each era has created new instruments of thought.  
-**Cybernetics** – from Wiener, Ashby, Maturana, Varela, and von Foerster – taught us that intelligence arises from feedback and reflection.
+From the printing press to the calculator to the computer, each era has created new instruments of thought. **Cybernetics** – from Wiener, Ashby, Maturana, Varela, and von Foerster – taught us that intelligence arises from feedback and reflection.
 
 This platform extends that lineage into **third-order cognition**: a system that not only thinks, but observes and improves how it thinks. It makes reasoning itself programmable, transparent, recursive, and self-correcting.
 
