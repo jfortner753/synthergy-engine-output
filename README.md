@@ -32,7 +32,7 @@ Together, these modules form a **living reasoning field** – balancing precisio
 
 ### Reasoning Roles
 
-1. **Navigator** – sets the course and defines the field vector.
+1. **Navigator** – sets the course and defines the descent vector.
 2. **Listener** – integrates cross-domain signals and contradictions.
 3. **Reflector** – examines assumptions, risk, and ethical gravity.
 4. **Synthesizer** – fuses data into coherent, actionable insight.
