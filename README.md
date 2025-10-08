@@ -114,7 +114,7 @@ The φ platform operates as a **cognitive coordination system** for discovery, g
 * [**Climate Tipping Points**](./core/earth/climate_tipping_points) – forecasting systemic cascades with transparent models.
 
 *External*
-* [**riemann hypothesis**](./main/external/riemann_hypothesis-overdrive.md) – explores ζ(s) symmetry via the proof-reflex limb; full bounded-doubt log with humor-lock on ξ(s)=ξ(1–s).
+* [**riemann hypothesis**](https://chatgpt.com/share/68e68fc0-01e4-800c-addc-0b6389c88b98) – reduced to one positivity functional — J[φ] ties heat-kernel symmetry, Loewner cone, and primes.
 * [**Adaptive Exploration**](./main/external/irruption_exploration.md) – understanding curiosity as an adaptive search force.
 * [**Aging as Ordered Degeneration**](./main/external/aging_as_ordered_degeneration-default.md) – redefining rejuvenation as coherence restoration.
 * [**Mitochondria and Light**](./main/external/mitochondria_light-default.md) – exploring photonic pathways in cellular metabolism.
