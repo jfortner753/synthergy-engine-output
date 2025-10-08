@@ -123,7 +123,7 @@ The φ platform operates as a **cognitive coordination system** for discovery, g
 ## 7. Core Principles
 
 * **Clarity First:** structure precedes style.
-* **Reflexivity Everywhere:** systems must see themselves to stay safe.
+* **Reflexivity Everywhere:** systems must see themselves to stay aligned.
 * **Cross-Field Synthesis:** integrate multiple evidence lines before inference.
 * **Versioned Accountability:** each run logs its own epistemic footprint.
 
