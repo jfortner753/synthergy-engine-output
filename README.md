@@ -108,11 +108,12 @@ The φ platform operates as a **cognitive coordination system** for discovery, g
 
 ## 6. Example Syntheses
 
-* **Reflexive Science** – reframing research as a living feedback ecology.
-* **Fail-Forward Fusion** – fusion plants that learn from every anomaly.
-* **Preventive Healthcare** – designing medicine that predicts rather than reacts.
-* **Jane Goodall Empathy** – modeling intergenerational transmission of care.
-* **Climate Tipping Points** – forecasting systemic cascades with transparent models.
+* [**Reflexive Science**](./core/systems/reflexive_science) – reframing research as a living feedback ecology.
+* [**Fail-Forward Fusion**](./core/physics/fail_forward_fusion) – fusion plants that learn from every anomaly.
+* [**Preventive Healthcare**](./core/life/preventive_healthcare) – designing medicine that predicts rather than reacts.
+* [**Jane Goodall Empathy**](./core/life/jane_goodall_empathy) – modeling intergenerational transmission of care.
+* [**Climate Tipping Points**](./core/earth/climate_tipping_points) – forecasting systemic cascades with transparent models.
+  
 * **Adaptive Exploration** – understanding curiosity as an adaptive search force.
 * **Aging as Ordered Degeneration** – redefining rejuvenation as coherence restoration.
 * **Mitochondria and Light** – exploring photonic pathways in cellular metabolism.
