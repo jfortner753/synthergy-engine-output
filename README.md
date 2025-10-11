@@ -144,7 +144,7 @@ README.md      # This document
 ## 9. Licensing & Contact
 
 **Outputs** – available for reading, sharing, citation, and non-commercial research.  
-**Core engine & shell** – proprietary; intellectual property of **Lambda Field GmbH**
+**Core engine & shell** – proprietary; intellectual property of **Lambda Field GmbH** and protected under the [RCDL](https://github.com/jfortner753/narufieldOS?tab=readme-ov-file#license).
 
 For pilot collaborations, due-diligence runs, or licensing:  
 [📧](mailto:jfortner753@proton.me) · [💼](https://www.linkedin.com/in/jfortner753n/) · [𝕏](https://x.com/jfortner753)
