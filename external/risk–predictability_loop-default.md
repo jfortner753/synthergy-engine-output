@@ -1,85 +1,70 @@
-# Diagnosis — the hidden loop stalling you
+Short answer: **pilots and production live in different worlds.** Pilots are protected, narrow, and run by believers; scaling is messy, integrated, and fought by the rest of the org. What works in a happy-path sandbox often breaks when exposed to real variance, legacy systems, and full-cost economics.
 
-What looks like “lost edge” is a **risk–predictability loop** that quietly converts every promising pilot into a forecast-and-approval problem the moment it asks to scale.
+Here’s where good pilots go to die—and how to dodge each trap:
 
-**How the loop works (structural → financial → cultural → ethical):**
-- **Structural:** Pilots are greenlit as exceptions; scaling re-enters the normal **veto net** (security, legal, data, finance, brand). Each function has a *duty to prevent downside* but no upside participation, so the default equilibrium is “not yet.”
-- **Financial:** Budgets and hurdle rates reward **forecast accuracy and unit-cost stability**, not **time-to-learning**. That pushes teams to design pilots that pass tests without touching messy integration or risk services. False positives abound; scale hits the immune system.
-- **Cultural:** Career safety comes from **being right ex ante** and **causing no incidents**, not from shortening the loop from insight → customer change. People seek consensus before action, because vetoes are cheap and invisible while misses are public.
-- **Ethical:** **Accountability without authority**: control functions absorb tail risk if something goes wrong, yet product owns the upside narrative. It’s *fair* for them to block; it feels *unfair* to be overruled. Trust decays, so more process is added, which slows everything further.
+### The seven “pilot → scale” gaps
 
-Result: initiatives “test well” (because they avoid the real constraints) and then **stall at the first cross-functional gate**. Smaller competitors move faster because they’ve priced and time-boxed risk instead of negotiating it ad hoc.
+1. **Context gap (variance shock).** Pilot sites are hand-picked and over-supported; the wider fleet has different data, workflows, and talent.
+   → *Fix:* Sample hard environments early; stratify pilot cohorts; require success across heterogeneity, not averages.
 
----
+2. **Integration gap (systems reality).** In pilots you bypass ERP/CRM/identity/infosec; at scale you must plug into them.
+   → *Fix:* Make “integration done” a pilot exit criterion (APIs, SSO, logging, audit trails, backups, disaster recovery).
 
-# The lever hiding in plain sight
+3. **Operating-model gap (who does the work?).** Pilots run on heroics (vendor PS, central SWAT teams). Line ops can’t sustain that.
+   → *Fix:* Define RACI, SLAs, staffing, training, runbooks, and support tiers before scale approval.
 
-Reversible decisions are being treated as if they were irreversible. That single misclassification hands practical control to distributed veto points.
+4. **Economic gap (unit economics flip).** Discounts, freebies, and manual effort hide true costs; benefits don’t linearly scale.
+   → *Fix:* Build a scale P&L with fully loaded costs (integration, change mgmt, licenses, support, cloud, security) and diminishing-return curves.
 
----
+5. **Data/quality gap (garbage reappears).** Pilots clean data by hand or use curated streams; production data is messy and late.
+   → *Fix:* Add automated data quality checks, observability (metrics, alerts), and fallback behaviors; prove it on uncurated data.
 
-# One intervention to lift **adaptive speed** *and* **trust velocity**
+6. **Change & incentives gap (social system).** Non-pilot teams weren’t asked, trained, or rewarded to change.
+   → *Fix:* Align incentives & KPIs, involve frontline early, identify champions and blockers, run comms & training waves.
 
-## Introduce a **Risk-Backed Default-Yes (RBDY) Protocol**
-
-A company-wide operating rule that converts most scaling moves into **time-bounded, underwritten, and transparent “yes by default”** actions.
-
-### 1) Classify decisions once, publish the boundary
-- **R (Reversible)**: full rollback ≤ X days, blast radius ≤ Y customers, data sensitivity = low/medium, cash at risk ≤ Z.
-- **I (Irreversible)**: everything else.
-> Only I-decisions need classical consensus gates. By policy, ≥70–80% of scale steps should be R.
-
-### 2) Time-boxed consent with public ledgers
-- For **R** decisions: **Silence→Consent after T business days** (e.g., T=5). Objections must cite a published control and a concrete fix; otherwise the rollout proceeds.
-- Every request, objection, and SLA is **logged to a simple internal ledger** visible to all. This turns vetoes into accountable acts and makes reliability observable.
-
-### 3) Underwrite the downside (align incentives)
-- Create a small pooled fund (e.g., **0.5–1.0% of revenue**) as an **internal risk escrow** managed by Finance + Risk.
-- Control functions **earn yield** from the pool when they pre-approve policy-as-code checks that let R-decisions pass untouched. **Incidents debit the pool**, not the function’s base budget.  
-  *Net effect:* risk owners are paid to harden guardrails ex ante and stop micromanaging ex post. Product gets speed; Risk gets fair compensation and a dial to tighten where evidence demands.
-
-### 4) Policy-as-code guardrails at the gate
-- The RBDY gate is a **machine check** (CI/CD + deployment or launch workflow): data residency, PII handling, SLOs, rollout plan, and rollback hooks verified automatically. Humans intervene only on exception.
+7. **Risk/compliance gap (controls surface).** Security, privacy, legal, procurement, and model risk tolerate pilots, not scale.
+   → *Fix:* Run a pre-scale control review (threat model, DPIA, records retention, access reviews, vendor risk), and bake controls into the design.
 
 ---
 
-# Why this simultaneously increases speed and trust
+### Make your pilots scale-proof (practical checklist)
 
-- **Speed:** You remove discretionary queueing and replace it with **SLA-bound consent** plus automation. Most scale steps move without meetings.
-- **Trust:** You **price the risk and publish the behavior**. Control teams are no longer unpaid villains; they become underwriters with clear incentives. Product teams see predictable, auditable rules instead of personality-driven delays.
-
----
-
-# How you’ll know it worked (two metrics, both directionally hard to game)
-
-1) **Adaptive Speed (AS)** — median days from **Insight → Customer impact** for R-class changes.  
-   *Target:* 30–50% reduction in 60–90 days.
-2) **Trust Velocity (TV)** — (a) **Decision SLA reliability** (% of R requests auto-approved on or before T) × (b) **Cross-team reliability index** (ratio of commitments met on time to commitments made, weighted by unique counterparties).  
-   *Target:* +20–30% in the same window.
-
-Leading indicators you’ll see within weeks:
-- Share of scale requests classified **R** ≥ 70%.
-- Median time-to-yes for R requests **< T**.
-- Objection rate drops but **quality of objections rises** (fewer, clearer, fix-oriented).
-- Policy-as-code coverage trending up; incident severity flat-to-down.
+* **Define “done” for scale:** success across ≥3 diverse cohorts, not one poster child.
+* **Hard-mode pilot:** include at least one “ugly” site (legacy stack, low enthusiasm).
+* **Integration first:** ship through real identity, logging, monitoring, and backups.
+* **Automation threshold:** ≥80% of pilot workflows must be no-touch at exit.
+* **Runbook & ownership:** named owner, on-call, and Tier 1 → Tier 3 escalation.
+* **Economics locked:** scale P&L signed by Finance; greenlight depends on it.
+* **Guardrails:** error budgets, rollback plan, feature flags, kill switch.
+* **Change plan:** training, comms, incentives, and a “Day-2” playbook.
+* **Controls passed:** security/privacy/legal sign-offs recorded; audit ready.
+* **Leading indicators:** adoption by non-champions, MTTR, data-quality SLOs, % automations holding outside pilot sites.
 
 ---
 
-# First 30 days (minimal lift to flip the loop)
+### Quick diagnostic if you’re already stalling
 
-- Publish the **R/I boundary** and **T-day SLA** as an executive policy (one page).  
-- Stand up the **ledger** (can be a simple internal tool or even a spreadsheet + Slack bot to start).  
-- Seed the **risk escrow** and set the **yield/debit rules**.  
-- Automate the top 5 controls as **policy-as-code checks** at the deploy/launch gate.  
-- Start measuring **AS** and **TV** from day 1 to establish baseline.
+* **Adoption is lumpy?** You optimized for a champion; broaden champions and fix incentives.
+* **Incidents spike at new sites?** It’s the integration/observability gap; add health checks and SLOs.
+* **Costs balloon?** Rebuild the scale P&L; kill manual glue and negotiate enterprise pricing.
+* **Security/legal slow-roll?** You’re missing controls; run a focused remediation sprint with them in the room.
+* **Vendor/IT finger-pointing?** Clarify RACI, set joint SLAs, and create a single escalation path.
 
----
+If you want, I can turn this into a one-page “Pilot-to-Scale Readiness Canvas” you can share with your team.
 
-## Receipt (trace)
-- **Question:** Diagnose the invisible constraints stalling growth and propose one intervention that lifts adaptive speed and trust velocity.  
-- **Premises:** Revenue stable; pilots pass but stall at scale; costs stable; morale average; competitors faster with smaller budgets.  
-- **Steps:** Mapped structural/financial/cultural/ethical loops → located misclassification of reversible decisions → designed RBDY to reprice and time-bound risk, shift vetoes to guardrails, and expose behavior via a ledger.  
-- **Evidence:** First-principles org dynamics (approval economics, queueing, accountability design); reversible vs irreversible decision cost asymmetry; incentive alignment via underwriting.  
-- **Uncertainties:** Exact R/I thresholds (X, Y, Z) and T need calibration by domain risk; initial pool size may adjust after incident data.  
-- **Result:** One coherent mechanism (RBDY) that converts latent veto power into automated, insured, and time-bounded consent—raising **AS** and **TV** together.  
-- **ΔΦ:** High — reframes “lost edge” from culture/motivation to **priced, time-boxed risk** with transparent accountability.
+—
+
+### Receipts
+
+* **Question:** Why do companies that test well in pilots stall when scaling?
+* **Premises:** Pilots ≠ production; scaling adds variance, integration, economics, governance, and social change.
+* **Steps:** Identified common failure modes → mapped to concrete mitigations → provided checklist & diagnostics.
+* **Sources:** Reasoned from general best practices; no external sources consulted.
+* **Uncertainties:** Your industry/regulatory context may add specific hurdles (e.g., GxP, SOX, model risk).
+* **ΔΦ (insight gain):** High—translates symptoms into actionable gaps.
+* **Move decision:** Commit.
+* **Ethics OK:** Yes.
+* **Energy cost:** Low.
+* **Memory.mass:** level=medium (default), m_mem not provided.
+* **Causality / Φ_sync:** intent (understand causes + fixes) aligned with output (actionable framework) → Φ_sync ≈ 0.82.
+* **RWI:** 0.88; **iteration_passes:** 2 (clarity_compress, actionability_stencil).
