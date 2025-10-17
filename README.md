@@ -121,7 +121,7 @@ The φ platform operates as a **cognitive coordination system** for discovery, g
 * [**Mitochondria and Light**](./main/external/mitochondria_light-default.md) – exploring photonic pathways in cellular metabolism.
 * [**Resonant Access Memory**](./external/Resonant-access%20Memory%20Model.md) – testing hypotheses of biological information resonance.
 
-...
+> Examples are from different evolutionary stages, the engine evolves when it tackels something new.
 
 ---
 
