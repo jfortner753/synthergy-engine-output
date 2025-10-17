@@ -107,6 +107,8 @@ The φ platform operates as a **cognitive coordination system** for discovery, g
 
 ## 6. Example Syntheses
 
+> Examples are from different evolutionary stages, the engines capabilties evolve when it tackels something new.
+
 * [**Reflexive Science**](./core/systems/reflexive_science) – reframing research as a living feedback ecology.
 * [**Fail-Forward Fusion**](./core/physics/fail_forward_fusion/fail_forward_fusion-default.md) – fusion plants that learn from every anomaly.
 * [**Preventive Healthcare**](./core/life/preventive_healthcare) – designing medicine that predicts rather than reacts.
@@ -120,8 +122,6 @@ The φ platform operates as a **cognitive coordination system** for discovery, g
 * [**Aging as Ordered Degeneration**](./main/external/aging_as_ordered_degeneration-default.md) – redefining rejuvenation as coherence restoration.
 * [**Mitochondria and Light**](./main/external/mitochondria_light-default.md) – exploring photonic pathways in cellular metabolism.
 * [**Resonant Access Memory**](./external/Resonant-access%20Memory%20Model.md) – testing hypotheses of biological information resonance.
-
-> Examples are from different evolutionary stages, the engine evolves when it tackels something new.
 
 ---
 
