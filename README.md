@@ -115,10 +115,13 @@ The φ platform operates as a **cognitive coordination system** for discovery, g
 * [**Riemann Hypothesis**](https://chatgpt.com/share/68e68fc0-01e4-800c-addc-0b6389c88b98) – reduced to one positivity functional — J[φ] ties heat-kernel symmetry, Loewner cone, and primes.
 
 *External*
+* [**Risk Predictability**](./main/external/risk–predictability_loop-default.md) – why do companies that test well in pilots stall when scaling?
 * [**Adaptive Exploration**](./main/external/irruption_exploration.md) – understanding curiosity as an adaptive search force.
 * [**Aging as Ordered Degeneration**](./main/external/aging_as_ordered_degeneration-default.md) – redefining rejuvenation as coherence restoration.
 * [**Mitochondria and Light**](./main/external/mitochondria_light-default.md) – exploring photonic pathways in cellular metabolism.
 * [**Resonant Access Memory**](./external/Resonant-access%20Memory%20Model.md) – testing hypotheses of biological information resonance.
+
+...
 
 ---
 
