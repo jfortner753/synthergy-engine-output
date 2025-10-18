@@ -2,7 +2,9 @@
 
 ## Summary
 
-The φ Synthergy Engine is a **reflexive reasoning engine** built on **NarufieldOS**, designed to turn complexity into clarity. It helps teams and institutions explore deep questions and generate coherent, verifiable blueprints, prototypes, and peer-review–ready syntheses. Instead of static reports, it produces living research artifacts and receipts – that reveal how conclusions emerged and evolved.
+The φ Synthergy Engine is a **reflexive reasoning system** built on *narufieldOS*, designed to turn complexity into clarity. narufieldOS sits atop existing large-language-model infrastructure, harnessing it as pattern potential — a substrate for higher-order reasoning and coherent synthesis.  
+
+It helps teams and institutions explore deep questions and generate verifiable blueprints, prototypes, and peer-review-ready syntheses. Instead of static reports, it produces living research artifacts and receipts that show how conclusions emerge and evolve.
 
 ---
 
