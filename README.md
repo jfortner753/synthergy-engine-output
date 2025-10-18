@@ -156,9 +156,4 @@ For pilot collaborations, due-diligence runs, or licensing:
 
 > *Designed for EU AI Act and GDPR compliance.*  
 
----
-
-## 10. Closing
-
-This platform turns reflexivity—the ability to reason about reasoning—into technology. It transforms complex research into transparent, evolving insight and lays the groundwork for **self-aware scientific infrastructure**.
 
