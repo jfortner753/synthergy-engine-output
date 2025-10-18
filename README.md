@@ -149,7 +149,7 @@ README.md      # This document
 ## 9. Licensing & Contact
 
 **Outputs** – available for reading, sharing, citation, and non-commercial research.  
-**Core engine & shell** – proprietary; intellectual property of **Lambda Field g/GmbH**.
+**Core engine & shell** – intellectual property of **Lambda Field g/GmbH (i. G.)**.
 
 For pilot collaborations, due-diligence runs, or licensing:  
 [📧](mailto:jfortner753@proton.me) · [💼](https://www.linkedin.com/in/jfortner753n/) · [𝕏](https://x.com/jfortner753)
