@@ -141,6 +141,7 @@ The φ platform operates as a **cognitive coordination system** for discovery, g
 ```
 /core/         # Syntheses by scientific domain
 /external/     # Analyses of published papers and discourse
+/bench/        # Capability tests and benchmarks
 README.md      # This document
 ```
 
