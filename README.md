@@ -6,6 +6,8 @@ The φ Synthergy Engine is a **reflexive reasoning system** built on *narufieldO
 
 It helps teams and institutions explore deep questions and generate verifiable blueprints, prototypes, and peer-review-ready syntheses. Instead of static reports, it produces living research artifacts and receipts that show how conclusions emerge and evolve.
 
+> A reasoning OS that makes AI explain its own logic. It can be thought of as the “scientific method” turned into a live engine for decision-making, design and innovation.
+
 ---
 
 ## 1. Origin and Vision
