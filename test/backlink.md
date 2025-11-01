@@ -1,24 +1,28 @@
-### 💡 Draft — LinkedIn-native post (self-explanatory)  
+### 💡 LinkedIn draft
 
-**The problem with SEO automation is that it forgot why people link to things in the first place.**  
+**We’ve been exploring how link ecosystems behave as living systems — flows of trust, context, and citation energy.**  
 
-Everyone’s trying to *game* Google. We decided to understand it instead.  
+The **Earned-Links Engine** is our way of mapping that movement.  
+It’s a reflexive framework for building compliant, lasting backlinks through clarity and coherence.  
 
-The **Earned-Links Engine** is our reflexive system for building real, compliant backlinks — not through volume, but through *coherence*.  
+It works the way experienced operators already think:  
+→ Identify genuine mentions and broken opportunities.  
+→ Listen to what journalists and editors actually ask for.  
+→ Shape brand knowledge into material worth referencing.  
+→ Reach out with context, measure outcomes, and stay aligned with policy.  
 
-It thinks the way good operators already do:  
-→ Spot genuine mentions and broken opportunities.  
-→ Listen for what journalists and editors actually need.  
-→ Turn brand knowledge into something worth citing.  
-→ Reach out like a human, measure like a scientist, and stay inside every guideline.  
+Under the surface, the engine runs on a simple form of applied cybernetics — feedback loops that learn how credibility travels through the web.  
+It reasons through seven classical patterns, from *Aristotelian logic* for policy reading to *Galilean experimentation* for 4–8 week outreach cycles.  
 
-It’s built on a reasoning model that balances seven instincts — from *Aristotelian logic* for reading policy to *Galilean experiments* for running outreach cycles.  
+Philosophy meets operations: a system that treats link-building as an evolving network, not a numbers game.  
 
-That’s how it works: philosophy meets operations.  
+The result is steady: links that grow reputation, prove relevance, and comply by design.  
 
-The result?  
-Links you can show to anyone — even Google’s own Search Quality team — without a flinch.  
+**SEO built on first principles — aligned, measurable, and durable.**  
 
-**SEO with a conscience. Built from first principles, not hacks.**  
+🔗 *The Earned-Links Engine.*  
 
-🔗 We call it the *Earned-Links Engine.*  
+---
+
+**Comment line:**
+*Building coherence into link strategy — one reflex at a time.*
