@@ -1,6 +1,6 @@
 ### 💡 LinkedIn draft
 
-**We’ve been exploring how link ecosystems behave as living systems — flows of trust, context, and citation energy.**  
+**SEO automation often focuses on volume and speed, while the real value lies in trust and relevance.**  
 
 The **Earned-Links Engine** is our way of mapping that movement.  
 It’s a reflexive framework for building compliant, lasting backlinks through clarity and coherence.  
