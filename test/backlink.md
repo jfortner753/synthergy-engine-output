@@ -1,4 +1,4 @@
-### 💡 LinkedIn draft
+### 💡 Descriptor draft
 
 **SEO automation often focuses on volume and speed, while the real value lies in trust and relevance.**  
 
