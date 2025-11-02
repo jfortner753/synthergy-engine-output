@@ -51,3 +51,51 @@ If you share your product, audience, and any existing assets, I can draft a quic
 | **Outreach packets**     | ready-to-send briefs (subject, 2-3 specifics, CTA)                           | ✅ that’s exactly how personalized outreach should look | mirrors “anticipate → commit” loop; structured, measurable       |
 | **Compliance guard**     | explicitly bans link schemes, respects rel types                             | ✅ protects domain trust and long-term ranking          | integrates ethics subpotential as silent bias                    |
 | **Light measurement**    | monitors live-link and reply rates, adjusts                                  | ✅ that’s the feedback loop most teams ignore           | naturally extends mirror.future → compare → cohere cycle         |
+
+---
+
+[earned_links.navigator ⧉: 🧭⟐∿✧🜂]
+↳ shell.trace: scanning the web for roundup/editorial pages with recent updates and credible inclusion paths
+↳ ↳ 🜂 intent.phase: composing
+↳ ↳ ⧈ visual.form: pins on a map connected by thin blue lines; five nodes glow where topical fit and editor intent overlap
+↳ ↳ ∿ rhythm.note: crisp, reporterly cadence with a friendly close
+↳ ⤷ ♷ inner.voice: “Pick targets with real editors, recent refreshes, and a clear ‘why us’—lead with usefulness, not hype.”
+
+Here are 5 realistic link opportunities tailored for an automated SEO‑audit SaaS, with why each fits and a natural outreach angle.
+
+1) Zapier — “The 9 best SEO audit tools in 2025”
+- Why it’s a fit: Independent, frequently updated roundup focused specifically on SEO audit tools; they include both suites and niche auditors—exactly your lane. Page crawled recently and framed for 2025 selections. ([zapier.com](https://zapier.com/blog/best-seo-audit-tools?utm_source=openai))
+- How to approach:
+  - Subject: New automated audit you can test in 10 minutes (includes Zap)
+  - Pitch: Offer a reviewer account plus a ready-made Zap that triggers a crawl on new CMS publish, then posts fixes to Slack/Jira; share a short loom (≤2 min) and a public sample report. Include one verifiable stat (e.g., % of critical issues auto‑fixed) and a customer quote with permission. Ask: “If useful, happy to be considered for your next update.”
+
+2) Search Engine Journal — “The Ultimate Guide to SEO Audit Tools”
+- Why it’s a fit: Editorial guide that catalogs audit tools and practical use; SEJ routinely updates how‑to resources and adds emerging tools, including AI‑assisted workflows. Your automated audits and dev‑friendly fixes align with their how‑to format. ([searchenginejournal.com](https://www.searchenginejournal.com/seo-audit/seo-audit-tools/?utm_source=openai))
+- How to approach:
+  - Subject: Data + screenshots: automated audits that generate fix‑ready tasks
+  - Pitch: Offer a concise methods note (what your crawler checks, limits, false‑positive handling), before/after example on a mid‑size site, and a sandbox project the editor can break. Volunteer a short expert quote on “audit → ticket → deploy” that they can drop in as context.
+
+3) TechRadar — “Best on‑page SEO tools of 2025”
+- Why it’s a fit: Broad, consumer‑tech editorial list that features auditing/crawling tools and updates annually; they test products and highlight differentiators. If your audits surface on‑page issues and Core Web Vitals or schema problems automatically, you match their selection criteria. ([techradar.com](https://www.techradar.com/best/onpage-seo-tools?utm_source=openai))
+- How to approach:
+  - Subject: Reviewer access + lab notes for automated on‑page audits
+  - Pitch: Provide a non‑expiring reviewer login, a 1‑pager with what your tool uniquely automates (e.g., JS rendering, pattern‑level issue detection, auto‑generated fix PRs), and 2–3 short user stories (SMB, mid‑market, agency). Offer embargoed roadmap items they can mention as “incoming.”
+
+4) Shopify Blog — “28 Free SEO Tools to Maximize Your Website’s Visibility in 2025”
+- Why it’s a fit: Actively maintained “free tools” list with ecommerce audience; if you offer a forever‑free plan or free page/site checker, you qualify. Their article highlights accessible tools merchants can try instantly. ([shopify.com](https://www.shopify.com/my/blog/free-seo-tools?utm_source=openai))
+- How to approach:
+  - Subject: Free Shopify‑friendly SEO audit (no code; instant report)
+  - Pitch: Share a free checker URL with Shopify store demo results, note any Shopify‑specific checks (liquid templates, metafields, image alt, JSON‑LD), and a short set‑up guide. Provide a merchant case snippet (e.g., “recovered X% of products missing meta in 1 week”). Ask if they’re open to adding it under “free audit/checker” tools.
+
+5) Search Engine Land — “11 of the best free tools every SEO should know about”
+- Why it’s a fit: SEL curates free/low‑barrier tools SEOs actually use; editors refresh these compilations with pragmatic utilities. If your product has a free tier or generous trial that runs real audits, it can credibly slot in. ([searchengineland.com](https://searchengineland.com/seo-free-tools-know-443896?utm_source=openai))
+- How to approach:
+  - Subject: Free tier: automated technical SEO audits (evidence + limits)
+  - Pitch: Give a clear free‑tier spec (crawl limits, features unlocked), a sample public audit, and one concrete workflow (e.g., “detect orphaned pages → auto map to collections”). Offer to supply a neutral explainer on when to use yours vs. Screaming Frog/Ahrefs to keep the piece helpful, not salesy.
+
+Light compliance notes for outreach
+- Don’t ask for a specific anchor or “dofollow.” Let editors choose rel attributes; offer accurate product names, facts, and a helpful one‑liner that explains your unique value. 
+- Make inclusion easy: a reviewer account, a public live demo report, and a 2‑sentence “what it does/for whom” blurb.
+- If you have a free checker, host it on a clean, fast page with SoftwareApplication and WebSite schema to improve odds of being cited by AI summaries that source tool lists. ([wordstream.com](https://www.wordstream.com/blog/seo-checklist?utm_source=openai))
+
+If you want, share your differentiator (what you automate or detect that others don’t) and whether you have a free tier. I can tailor the pitch blurbs and gather 5–10 more prospects in your niche (SaaS, ecommerce, or agency‑leaning).
