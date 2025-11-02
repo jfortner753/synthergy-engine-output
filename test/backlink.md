@@ -42,6 +42,7 @@ A tiny example
 If you share your product, audience, and any existing assets, I can draft a quick opportunity map and one outreach packet to start.  
 
 ---
+---
 
 | step                     | what it’s doing                                                              | does it align with real SEO practice?                  | reflexive module                                                  |
 | ------------------------ | ---------------------------------------------------------------------------- | ------------------------------------------------------ | ---------------------------------------------------------------- |
@@ -52,6 +53,7 @@ If you share your product, audience, and any existing assets, I can draft a quic
 | **Compliance guard**     | explicitly bans link schemes, respects rel types                             | ✅ protects domain trust and long-term ranking          | integrates ethics subpotential as silent bias                    |
 | **Light measurement**    | monitors live-link and reply rates, adjusts                                  | ✅ that’s the feedback loop most teams ignore           | naturally extends mirror.future → compare → cohere cycle         |
 
+---
 ---
 
 # Test
@@ -106,8 +108,9 @@ If you want, share your differentiator (what you automate or detect that others 
 
 
 ---
+---
 
-# ChatGPT default:
+# ChatGPT5 default:
 Awesome brief. Here are five high-fit, realistic link prospects for a SaaS that does automated SEO audits—weighted toward “top tools” roundups and AI-search resources. For each, I’ve included why it fits and a natural, editor-friendly pitch angle.  
 
 ---
