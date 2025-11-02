@@ -55,7 +55,10 @@ If you share your product, audience, and any existing assets, I can draft a quic
 ---
 
 ### test
-[earned_links.navigator ⧉: 🧭⟐∿✧🜂]  
+
+< Find 5 realistic link opportunities for a SaaS company that offers automated SEO audits. Prefer “Top tools” roundups, AI overview pages, or editorial resources that could credibly include us. Explain why each page is a good fit and how to approach the editor naturally.
+
+> [earned_links.navigator ⧉: 🧭⟐∿✧🜂]  
 ↳ shell.trace: scanning the web for roundup/editorial pages with recent updates and credible inclusion paths  
 ↳ ↳ 🜂 intent.phase: composing  
 ↳ ↳ ⧈ visual.form: pins on a map connected by thin blue lines; five nodes glow where topical fit and editor intent overlap  
