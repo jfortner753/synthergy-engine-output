@@ -1,0 +1,114 @@
+λHEADER_START
+[link.scan.state ⧉: 🧭⟐∿✧]
+↳ shell.trace: navigator scan → compile 6-fit opportunity map (tier=free, schema_only)
+↳ ↳ 🜂 intent.phase: emit
+↳ ↳ ⧈ visual.form: thin lattice of links arrayed as bright nodes, each tagged with fit and freshness
+↳ ↳ ∿ rhythm.note: crisp, no-frills cadence
+↳ ⤷ ♷ inner.voice: "keep it clean JSON; free tier fields only; attach inline cites in why_fits."
+λHEADER_END
+λOUTER_START
+[
+  {
+    "title": "New Buoy Boosts White Lake’s Water Quality Monitoring and Conservation",
+    "url": "https://www.fondriest.com/news/new-buoy-boosts-white-lakes-water-quality-monitoring-and-conservation.htm",
+    "reason_code": "case_study_feature",
+    "why_fits": "Recent in-body case study that names specific sensor platforms; editors regularly credit technologies in lake/reservoir deployments—AquaSense could pitch a comparable field deployment story.",
+    "trust_band": "Strong editorial fit",
+    "trust_score_total": 82.0,
+    "trust_score_max": 100,
+    "score_breakdown": [
+      {"factor": "topical_relevance", "value": 0.95, "weight": 0.35, "rationale": "Direct water-quality monitoring case study (sondes, buoys). ([fondriest.com](https://www.fondriest.com/news/new-buoy-boosts-white-lakes-water-quality-monitoring-and-conservation.htm?utm_source=openai))"},
+      {"factor": "editorial_quality", "value": 0.80, "weight": 0.25, "rationale": "Edited trade feature with technical detail and sources."},
+      {"factor": "freshness", "value": 0.75, "weight": 0.15, "rationale": "Published June 2025 (≈3–5 months old). ([fondriest.com](https://www.fondriest.com/news/new-buoy-boosts-white-lakes-water-quality-monitoring-and-conservation.htm?utm_source=openai))"},
+      {"factor": "surface_context", "value": 0.90, "weight": 0.10, "rationale": "In-body editorial, not sidebar/profile."},
+      {"factor": "trust_behavior", "value": 0.80, "weight": 0.10, "rationale": "Outlet routinely cites brands as part of reporting. ([fondriest.com](https://www.fondriest.com/news/new-buoy-boosts-white-lakes-water-quality-monitoring-and-conservation.htm?utm_source=openai))"},
+      {"factor": "risk_adjustment", "value": 0.00, "weight": -0.05, "rationale": "Low risk of ‘parasite’ or pay-to-play surface."}
+    ]
+  },
+  {
+    "title": "The Ultimate Water Quality Monitoring Guide for Environmentalists",
+    "url": "https://rtei.net/water-quality-monitoring/",
+    "reason_code": "guide",
+    "why_fits": "Fresh practitioner guide from an environmental informatics publisher; guides often add vendor examples/tools where they improve reader utility.",
+    "trust_band": "Credible secondary fit",
+    "trust_score_total": 75.0,
+    "trust_score_max": 100,
+    "score_breakdown": [
+      {"factor": "topical_relevance", "value": 0.90, "weight": 0.35, "rationale": "End-to-end monitoring guidance audience-aligned. ([rtei.net](https://rtei.net/water-quality-monitoring/?utm_source=openai))"},
+      {"factor": "editorial_quality", "value": 0.70, "weight": 0.25, "rationale": "Long-form explainer with expert byline."},
+      {"factor": "freshness", "value": 0.70, "weight": 0.15, "rationale": "Recently updated/featured in site’s ‘Recent Articles’. ([rtei.net](https://rtei.net/water-quality-monitoring/?utm_source=openai))"},
+      {"factor": "surface_context", "value": 0.90, "weight": 0.10, "rationale": "In-body guide; space for examples and citations."},
+      {"factor": "trust_behavior", "value": 0.70, "weight": 0.10, "rationale": "Editorial blog, not a vendor product page."},
+      {"factor": "risk_adjustment", "value": 0.10, "weight": -0.05, "rationale": "Moderate: publisher site, not a major trade journal."}
+    ]
+  },
+  {
+    "title": "10 Top Water Management Solutions [2025] | StartUs Insights",
+    "url": "https://www.startus-insights.com/innovators-guide/water-management-solutions/",
+    "reason_code": "startup_list",
+    "why_fits": "2025 analyst list featuring monitoring startups; StartUs accepts company suggestions for future updates and category additions.",
+    "trust_band": "Credible secondary fit",
+    "trust_score_total": 70.0,
+    "trust_score_max": 100,
+    "score_breakdown": [
+      {"factor": "topical_relevance", "value": 0.85, "weight": 0.35, "rationale": "Includes water quality monitoring entries in 2025 set. ([startus-insights.com](https://www.startus-insights.com/innovators-guide/water-management-solutions/?utm_source=openai))"},
+      {"factor": "editorial_quality", "value": 0.60, "weight": 0.25, "rationale": "Analyst-curated list; lighter technical depth."},
+      {"factor": "freshness", "value": 0.80, "weight": 0.15, "rationale": "Published ~4 months ago (2025). ([startus-insights.com](https://www.startus-insights.com/innovators-guide/water-management-solutions/?utm_source=openai))"},
+      {"factor": "surface_context", "value": 0.85, "weight": 0.10, "rationale": "Listicle with in-body blurbs and links."},
+      {"factor": "trust_behavior", "value": 0.60, "weight": 0.10, "rationale": "Editorial with potential submission pathway."},
+      {"factor": "risk_adjustment", "value": 0.20, "weight": -0.05, "rationale": "Some lists may skew to ‘suggested’ companies."}
+    ]
+  },
+  {
+    "title": "Best Water Quality Software of 2025 — Reviews &amp; Comparison",
+    "url": "https://sourceforge.net/software/water-quality/",
+    "reason_code": "software_list",
+    "why_fits": "Continuously refreshed software comparison hub; if AquaSense offers a platform or API, an entry here provides editorial exposure alongside peers.",
+    "trust_band": "Credible secondary fit",
+    "trust_score_total": 63.0,
+    "trust_score_max": 100,
+    "score_breakdown": [
+      {"factor": "topical_relevance", "value": 0.70, "weight": 0.35, "rationale": "Strong fit if software component is part of offering. ([sourceforge.net](https://sourceforge.net/software/water-quality/?utm_source=openai))"},
+      {"factor": "editorial_quality", "value": 0.55, "weight": 0.25, "rationale": "Directory-style summaries and reviews."},
+      {"factor": "freshness", "value": 0.85, "weight": 0.15, "rationale": "Updated frequently; page current this week. ([sourceforge.net](https://sourceforge.net/software/water-quality/?utm_source=openai))"},
+      {"factor": "surface_context", "value": 0.85, "weight": 0.10, "rationale": "In-body listings with category placement."},
+      {"factor": "trust_behavior", "value": 0.50, "weight": 0.10, "rationale": "Mixed user-generated + editorial curation."},
+      {"factor": "risk_adjustment", "value": 0.25, "weight": -0.05, "rationale": "Marketplace bias possible; disclosures vary."}
+    ]
+  },
+  {
+    "title": "Monitoring Meadowbrook Creek: Real-Time Data Collection in an Urban Creek",
+    "url": "https://www.fondriest.com/news/monitoring-meadowbrook-creek-real-time-data-collection-in-an-urban-creek.htm",
+    "reason_code": "case_study_feature",
+    "why_fits": "University-led urban creek monitoring feature; outlet credits platforms and partners—AquaSense could supply a comparable urban watershed deployment or data story.",
+    "trust_band": "Credible secondary fit",
+    "trust_score_total": 76.0,
+    "trust_score_max": 100,
+    "score_breakdown": [
+      {"factor": "topical_relevance", "value": 0.90, "weight": 0.35, "rationale": "Direct urban water-quality monitoring focus. ([fondriest.com](https://www.fondriest.com/news/monitoring-meadowbrook-creek-real-time-data-collection-in-an-urban-creek.htm?utm_source=openai))"},
+      {"factor": "editorial_quality", "value": 0.75, "weight": 0.25, "rationale": "Reported feature with technical specifics."},
+      {"factor": "freshness", "value": 0.60, "weight": 0.15, "rationale": "Published March 10, 2025. ([fondriest.com](https://www.fondriest.com/news/monitoring-meadowbrook-creek-real-time-data-collection-in-an-urban-creek.htm?utm_source=openai))"},
+      {"factor": "surface_context", "value": 0.90, "weight": 0.10, "rationale": "In-body editorial placement."},
+      {"factor": "trust_behavior", "value": 0.75, "weight": 0.10, "rationale": "Regular brand attributions in reporting. ([fondriest.com](https://www.fondriest.com/news/monitoring-meadowbrook-creek-real-time-data-collection-in-an-urban-creek.htm?utm_source=openai))"},
+      {"factor": "risk_adjustment", "value": 0.00, "weight": -0.05, "rationale": "Low surface risk."}
+    ]
+  },
+  {
+    "title": "Researchers develop novel material for water quality monitoring device (NUS ReSURF sensor)",
+    "url": "https://smartwatermagazine.com/news/national-university-singapore/researchers-develop-novel-material-water-quality-monitoring",
+    "reason_code": "innovation_news",
+    "why_fits": "Recent innovation news item in a water-trade outlet; editors often include expert/vendor context—AquaSense could offer a technical comment or pilot example to be referenced.",
+    "trust_band": "Credible secondary fit",
+    "trust_score_total": 71.0,
+    "trust_score_max": 100,
+    "score_breakdown": [
+      {"factor": "topical_relevance", "value": 0.80, "weight": 0.35, "rationale": "Device-level water-quality monitoring advance. ([smartwatermagazine.com](https://smartwatermagazine.com/news/national-university-singapore/researchers-develop-novel-material-water-quality-monitoring?utm_source=openai))"},
+      {"factor": "editorial_quality", "value": 0.70, "weight": 0.25, "rationale": "Edited news with research citation (Nature Communications). ([smartwatermagazine.com](https://smartwatermagazine.com/news/national-university-singapore/researchers-develop-novel-material-water-quality-monitoring?utm_source=openai))"},
+      {"factor": "freshness", "value": 0.67, "weight": 0.15, "rationale": "Published July 1, 2025 (≈4 months). ([smartwatermagazine.com](https://smartwatermagazine.com/news/national-university-singapore/researchers-develop-novel-material-water-quality-monitoring?utm_source=openai))"},
+      {"factor": "surface_context", "value": 0.85, "weight": 0.10, "rationale": "In-body news article."},
+      {"factor": "trust_behavior", "value": 0.70, "weight": 0.10, "rationale": "Trade outlet with consistent sourcing."},
+      {"factor": "risk_adjustment", "value": 0.05, "weight": -0.05, "rationale": "Minor PR skew possible in vendor-linked pieces."}
+    ]
+  }
+]
+λOUTER_END
