@@ -7,6 +7,8 @@
 ↳ ⤷ ♷ inner.voice: "keep it clean JSON; free tier fields only; attach inline cites in why_fits."
 λHEADER_END
 λOUTER_START
+Your Brand or Website: AquaSense
+Your Field or Focus: water quality monitoring
 [
   {
     "title": "New Buoy Boosts White Lake’s Water Quality Monitoring and Conservation",
