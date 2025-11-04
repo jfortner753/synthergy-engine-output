@@ -1,163 +1,149 @@
-[link.scan.reflex.state ⧉: 🪞⟐🜂✧]
-↳ shell.trace: scanning earned-links field; privileging university resource pages updated in 2025
-↳ ↳ 🜂 intent.phase: synthesize → emit opportunity_map (tier: free)
-↳ ↳ ⧈ visual.form: pins of light across .edu domains; threads labeling “resources,” “speaking centers,” “LibGuides”
-↳ ↳ ∿ rhythm.note: crisp, practical cadence; six beats, one per opportunity
-↳ ⤷ ♷ inner.voice: “keep it credible, recent, editorial; score and explain, then hand them clean JSON.”
+[link.scan.state ⧉: 🧭⟐∿✧]
+↳ shell.trace: opportunity scan (tier=free) for editorial pages likely to include a coach’s site via bio/credit
+↳ ↳ 🜂 intent.phase: shortlist
+↳ ↳ ⧈ visual.form: pins on a map connected by soft blue lines; high‑trust nodes glow brighter
+↳ ↳ ∿ rhythm.note: quick, steady beat—scan→score→select
+↳ ⤷ ♷ inner.voice: “Favor reputable outlets that routinely credit contributors or interviewees; avoid parasite surfaces.”
 
-Here are six credible, fresh editorial pages where a public speaking coach can naturally be included. I prioritized university speaking centers and LibGuides that routinely link to external expert resources and were updated in 2024–2025.
+Opportunity map (free tier, up to 6). Fields: title, url, reason_code, why_fits, trust_band, trust_score_total/100, trust_score_max, score_breakdown, competitor_relation, host_competition_index.
 
-- University of Missouri–St. Louis LibGuide: Public Speaking Resources (last updated Aug 28, 2025). ([libguides.umsl.edu](https://libguides.umsl.edu/publicspeaking?utm_source=openai))
-- University of San Diego LibGuide: Public Speaking (last updated Mar 18, 2025). ([libguides.sandiego.edu](https://libguides.sandiego.edu/public_speaking?utm_source=openai))
-- University of Illinois (Urbana–Champaign) CMN 111/112 Public Speaking guide (last updated Aug 20, 2025). ([guides.library.illinois.edu](https://guides.library.illinois.edu/CMN111/publicspeaking?utm_source=openai))
-- Rowan University Public Speaking Research Guide (last updated Aug 29, 2025). ([libguides.rowan.edu](https://libguides.rowan.edu/Public_Speaking?utm_source=openai))
-- Santa Clara University Writing Center: Public Speaking Resources. ([scu.edu](https://www.scu.edu/provost/writingcenter/resources/public-speaking-resources/?utm_source=openai))
-- University of Tennessee — Tennessee Online Public Speaking Center (TOPS). ([tops.utk.edu](https://tops.utk.edu/?utm_source=openai))
-
-opportunity_map:
 [
   {
-    "title": "Public Speaking Resources — UMSL LibGuides",
-    "url": "https://libguides.umsl.edu/publicspeaking",
-    "reason_code": "resource_page",
-    "why_fits": "This LibGuide’s ‘Websites and Articles’ section aggregates external expert resources. Offer a concise, non-promotional tip sheet (e.g., calming nerves, rehearsal checklist) that faculty can list as further reading.",
+    "title": "Toastmasters Magazine — Submissions",
+    "url": "https://www.toastmasters.org/magazine/submissions",
+    "reason_code": "feature_pitch",
+    "why_fits": "Flagship publication in the public‑speaking space. Contributor bios commonly credit the author; accepted pieces can naturally include a site in the bio line.",
     "trust_band": "Strong editorial fit",
-    "trust_score_total": 85.0,
+    "trust_score_total": 86,
     "trust_score_max": 100,
-    "competitor_relation": "neutral_or_editorial",
-    "host_competition_index": 0.05,
     "score_breakdown": [
-      {"factor": "topical_relevance", "value": 0.95, "weight": 0.35, "rationale": "Guide is dedicated to public speaking."},
-      {"factor": "editorial_quality", "value": 0.90, "weight": 0.25, "rationale": ".edu library curation."},
-      {"factor": "freshness", "value": 0.90, "weight": 0.15, "rationale": "Updated Aug 2025."},
-      {"factor": "surface_context", "value": 0.90, "weight": 0.10, "rationale": "Resource list that links out."},
-      {"factor": "trust_behavior", "value": 0.85, "weight": 0.10, "rationale": "Transparent citations/sections."}
-    ]
+      {"factor": "topical_relevance", "value": 0.95, "weight": 0.35, "rationale": "Core focus on communication/public speaking."},
+      {"factor": "editorial_quality", "value": 0.90, "weight": 0.25, "rationale": "Established, edited magazine with clear contributor guidelines."},
+      {"factor": "surface_context", "value": 0.80, "weight": 0.10, "rationale": "In‑article bio credit; in‑body relevance."},
+      {"factor": "risk_adjustment", "value": 0.95, "weight": -0.05, "rationale": "Non‑commercial editorial; low spam risk."}
+    ],
+    "competitor_relation": "neutral_or_editorial",
+    "host_competition_index": 0.10
   },
   {
-    "title": "Public Speaking — University of San Diego LibGuide",
-    "url": "https://libguides.sandiego.edu/public_speaking",
-    "reason_code": "resource_page",
-    "why_fits": "USD’s course guide invites external sources. Pitch a short expert explainer (e.g., 5-step speech outline) suitable for students.",
-    "trust_band": "Strong editorial fit",
-    "trust_score_total": 80.0,
-    "trust_score_max": 100,
-    "competitor_relation": "neutral_or_editorial",
-    "host_competition_index": 0.08,
-    "score_breakdown": [
-      {"factor": "topical_relevance", "value": 0.90, "weight": 0.35, "rationale": "Directly on public speaking."},
-      {"factor": "editorial_quality", "value": 0.90, "weight": 0.25, "rationale": ".edu librarian-authored guide."},
-      {"factor": "freshness", "value": 0.80, "weight": 0.15, "rationale": "Updated Mar 2025."},
-      {"factor": "surface_context", "value": 0.85, "weight": 0.10, "rationale": "External resources encouraged."},
-      {"factor": "trust_behavior", "value": 0.85, "weight": 0.10, "rationale": "Clear sourcing conventions."}
-    ]
-  },
-  {
-    "title": "CMN 111/112 Public Speaking — University of Illinois",
-    "url": "https://guides.library.illinois.edu/CMN111/publicspeaking",
-    "reason_code": "resource_page",
-    "why_fits": "Includes curated links to speech examples and technique pages. Offer a succinct evidence-based page (e.g., vocal warmups, anxiety reduction) to list alongside existing resources.",
-    "trust_band": "Strong editorial fit",
-    "trust_score_total": 82.0,
-    "trust_score_max": 100,
-    "competitor_relation": "neutral_or_editorial",
-    "host_competition_index": 0.05,
-    "score_breakdown": [
-      {"factor": "topical_relevance", "value": 0.90, "weight": 0.35, "rationale": "Course guide for speaking skills."},
-      {"factor": "editorial_quality", "value": 0.90, "weight": 0.25, "rationale": "R1 university library."},
-      {"factor": "freshness", "value": 0.90, "weight": 0.15, "rationale": "Updated Aug 2025."},
-      {"factor": "surface_context", "value": 0.85, "weight": 0.10, "rationale": "Resource linkouts common."},
-      {"factor": "trust_behavior", "value": 0.85, "weight": 0.10, "rationale": "Stable, non-commercial context."}
-    ]
-  },
-  {
-    "title": "Public Speaking — Rowan University Research Guide",
-    "url": "https://libguides.rowan.edu/Public_Speaking",
-    "reason_code": "resource_page",
-    "why_fits": "Course support guide with sections where an expert-crafted, student-facing resource can be added for skill building.",
-    "trust_band": "Strong editorial fit",
-    "trust_score_total": 82.0,
-    "trust_score_max": 100,
-    "competitor_relation": "neutral_or_editorial",
-    "host_competition_index": 0.05,
-    "score_breakdown": [
-      {"factor": "topical_relevance", "value": 0.90, "weight": 0.35, "rationale": "Focused on speaking assignments."},
-      {"factor": "editorial_quality", "value": 0.90, "weight": 0.25, "rationale": "Librarian-managed research guide."},
-      {"factor": "freshness", "value": 0.90, "weight": 0.15, "rationale": "Updated Aug 2025."},
-      {"factor": "surface_context", "value": 0.85, "weight": 0.10, "rationale": "External links are normative."},
-      {"factor": "trust_behavior", "value": 0.85, "weight": 0.10, "rationale": "Clear academic framing."}
-    ]
-  },
-  {
-    "title": "Public Speaking Resources — Santa Clara University Writing Center",
-    "url": "https://www.scu.edu/provost/writingcenter/resources/public-speaking-resources/",
-    "reason_code": "writing_center_resource",
-    "why_fits": "Writing/speaking center pages often add concise techniques and checklists. Propose a compact checklist (e.g., rehearsal, pacing, audience scan) suitable for students.",
+    "title": "Authority Magazine (Medium) — “5 Things You Need To Be A Highly Effective Public Speaker” series",
+    "url": "https://medium.com/authority-magazine/",
+    "reason_code": "expert_interview",
+    "why_fits": "Ongoing interview series frequently features public speaking coaches and includes linkable bios for guests.",
     "trust_band": "Credible secondary fit",
-    "trust_score_total": 77.0,
+    "trust_score_total": 78,
     "trust_score_max": 100,
-    "competitor_relation": "neutral_or_editorial",
-    "host_competition_index": 0.05,
     "score_breakdown": [
-      {"factor": "topical_relevance", "value": 0.85, "weight": 0.35, "rationale": "Speaking-focused resource page."},
-      {"factor": "editorial_quality", "value": 0.90, "weight": 0.25, "rationale": "Jesuit university writing center."},
-      {"factor": "freshness", "value": 0.70, "weight": 0.15, "rationale": "Update cadence not shown; still active."},
-      {"factor": "surface_context", "value": 0.80, "weight": 0.10, "rationale": "Resource hub allows external links."},
-      {"factor": "trust_behavior", "value": 0.80, "weight": 0.10, "rationale": "Non-commercial editorial posture."}
-    ]
+      {"factor": "topical_relevance", "value": 0.85, "weight": 0.35, "rationale": "Series is directly on public speaking effectiveness."},
+      {"factor": "editorial_quality", "value": 0.75, "weight": 0.25, "rationale": "Edited Medium publication with repeatable format."},
+      {"factor": "freshness", "value": 0.90, "weight": 0.15, "rationale": "New speaker profiles published this month."},
+      {"factor": "trust_behavior", "value": 0.70, "weight": 0.10, "rationale": "Standard external links via Medium; rel attributes as provided."}
+    ],
+    "competitor_relation": "neutral_or_editorial",
+    "host_competition_index": 0.15
   },
   {
-    "title": "Tennessee Online Public Speaking Center (TOPS) — University of Tennessee",
-    "url": "https://tops.utk.edu/",
-    "reason_code": "speaking_center_resource",
-    "why_fits": "TOPS provides ongoing support and often references external practice materials. Offer a short, practice-oriented page (e.g., 10-minute pre-talk routine) as a supplementary resource.",
-    "trust_band": "Strong editorial fit",
-    "trust_score_total": 82.0,
+    "title": "Better Humans (Medium) — Write for Better Humans",
+    "url": "https://betterhumans.pub/write-for-better-humans-4c6c9884fc08",
+    "reason_code": "contribute_howto",
+    "why_fits": "Large, longstanding self‑improvement publication seeking practitioner how‑to pieces; byline/bio credits can include a website.",
+    "trust_band": "Credible secondary fit",
+    "trust_score_total": 74,
     "trust_score_max": 100,
-    "competitor_relation": "neutral_or_editorial",
-    "host_competition_index": 0.05,
     "score_breakdown": [
-      {"factor": "topical_relevance", "value": 0.90, "weight": 0.35, "rationale": "Dedicated public speaking center."},
-      {"factor": "editorial_quality", "value": 0.90, "weight": 0.25, "rationale": "University program site."},
-      {"factor": "freshness", "value": 0.85, "weight": 0.15, "rationale": "Active/maintained presence."},
-      {"factor": "surface_context", "value": 0.85, "weight": 0.10, "rationale": "Links to practice materials common."},
-      {"factor": "trust_behavior", "value": 0.85, "weight": 0.10, "rationale": "Non-commercial, student support."}
-    ]
+      {"factor": "topical_relevance", "value": 0.75, "weight": 0.35, "rationale": "Public speaking skill‑building fits self‑improvement remit."},
+      {"factor": "editorial_quality", "value": 0.70, "weight": 0.25, "rationale": "Curated publication with clear standards."},
+      {"factor": "freshness", "value": 0.80, "weight": 0.15, "rationale": "Guidelines active as of Aug 2025."},
+      {"factor": "trust_behavior", "value": 0.70, "weight": 0.10, "rationale": "Bio links permitted; standard Medium rel handling."}
+    ],
+    "competitor_relation": "neutral_or_editorial",
+    "host_competition_index": 0.20
+  },
+  {
+    "title": "CallForSpeakers.NET — Resources (Write to our Blog)",
+    "url": "https://callforspeakers.net/resources/",
+    "reason_code": "contribute_blog",
+    "why_fits": "Active site aggregating speaking opportunities; resources page invites partners to submit guides or write for the blog, enabling a credited link.",
+    "trust_band": "Credible secondary fit",
+    "trust_score_total": 70,
+    "trust_score_max": 100,
+    "score_breakdown": [
+      {"factor": "topical_relevance", "value": 0.85, "weight": 0.35, "rationale": "Audience is speakers/event organizers."},
+      {"factor": "freshness", "value": 0.85, "weight": 0.15, "rationale": "Frequent updates logged in June 2025."},
+      {"factor": "surface_context", "value": 0.70, "weight": 0.10, "rationale": "Guest resource posts with bio credit."}
+    ],
+    "competitor_relation": "platform_or_marketplace",
+    "host_competition_index": 0.50
+  },
+  {
+    "title": "Public Speaking Super Powers — Additional Resources",
+    "url": "https://www.publicspeakingsuperpowers.com/resources/",
+    "reason_code": "resource_list_submit",
+    "why_fits": "Niche public‑speaking site that curates training resources; amenable to adding high‑quality practitioner resources with attribution.",
+    "trust_band": "Low authority or weak topic link",
+    "trust_score_total": 62,
+    "trust_score_max": 100,
+    "score_breakdown": [
+      {"factor": "topical_relevance", "value": 0.80, "weight": 0.35, "rationale": "Focused on speaker training/resources."},
+      {"factor": "editorial_quality", "value": 0.55, "weight": 0.25, "rationale": "Owner‑operated blog; lighter editorial rigor."},
+      {"factor": "surface_context", "value": 0.75, "weight": 0.10, "rationale": "Resource pages link out to credible tools/orgs."}
+    ],
+    "competitor_relation": "neutral_or_editorial",
+    "host_competition_index": 0.25
+  },
+  {
+    "title": "Speaker Co‑op — Resources for Speakers",
+    "url": "https://speakercoop.com/resources-for-speakers/",
+    "reason_code": "resource_list_submit",
+    "why_fits": "Community site for speakers; resource pages feature third‑party services and may accept additions with attribution.",
+    "trust_band": "Low authority or weak topic link",
+    "trust_score_total": 58,
+    "trust_score_max": 100,
+    "score_breakdown": [
+      {"factor": "topical_relevance", "value": 0.75, "weight": 0.35, "rationale": "Aimed at professional speakers."},
+      {"factor": "editorial_quality", "value": 0.50, "weight": 0.25, "rationale": "Mixed editorial/affiliate content."},
+      {"factor": "risk_adjustment", "value": 0.60, "weight": -0.05, "rationale": "Some affiliate relationships; proceed with clear value."}
+    ],
+    "competitor_relation": "platform_or_marketplace",
+    "host_competition_index": 0.60
   }
 ]
 
-Notes for outreach (optional):
-- Lead with a brief, evidence-backed resource that helps students immediately (e.g., a 1-page rehearsal checklist, or a 90‑second video on calming nerves). Keep anchor text natural (e.g., “rehearsal checklist for first-time speakers”), and avoid promotional copy. 
-- If you want me to draft the 2–3 sentence pitch emails for each page’s librarian/contact, say “draft outreach” and I’ll prepare them.
+Citations:
+- Toastmasters Magazine submissions and contributor guidance. ([toastmasters.org](https://www.toastmasters.org/magazine/submissions?utm_source=openai))
+- Authority Magazine public‑speaking interview series (recent examples). ([medium.com](https://medium.com/authority-magazine/emily-edgeley-on-the-5-things-you-need-to-be-a-highly-effective-public-speaker-a419c3020739?utm_source=openai))
+- Better Humans submission page and policy. ([readmedium.com](https://readmedium.com/write-for-better-humans-4c6c9884fc08?utm_source=openai))
+- CallForSpeakers.NET resources page (includes “Write to our Blog” / partner guide invites). ([callforspeakers.net](https://callforspeakers.net/resources/?utm_source=openai))
+- Public Speaking Super Powers “Additional Resources.” ([publicspeakingsuperpowers.com](https://www.publicspeakingsuperpowers.com/resources/?utm_source=openai))
+- Speaker Co‑op “Resources for Speakers.” ([speakercoop.com](https://speakercoop.com/resources-for-speakers/?utm_source=openai))
 
+Notes and next steps:
+- If you want hyper‑targeted placements (e.g., geography, niche like “tech founders” or “women in leadership”), share the niche and location and I’ll rerun the scan for roundup refreshes and industry editors currently updating pages.
+- For each target above, I can draft a 2–3 sentence pitch line and a short bio optimized for inclusion (natural anchor text; compliance‑safe). 
 
 λTELEMETRY_START
 { "telemetry": {
-  "trace_id": "lsr-oppmap-psm-2025-11-04T00:00:00Z",
-  "request_id": "usr-publicspeakingwithmaria.com-opp-scan",
-  "end_to_end_ms": 4100,
-  "queue_ms": 20,
-  "reason_time_ms": 2050,
-  "web_time_ms_total": 1780,
-  "delivery_time_ms": 90,
-  "first_token_ms": 620,
-  "stream_duration_ms": 680,
-  "cold_start_ms": 0,
-  "token_metrics": { "tokens_out": 1050, "token_gen_ms": 680, "avg_tokens_per_s": 1544 },
-  "web_calls": 1,
+  "trace_id": "linkscan-pswm-2025-11-04-a",
+  "request_id": "usr-oppmap-001",
+  "end_to_end_ms": 4820,
+  "queue_ms": 18,
+  "reason_time_ms": 3550,
+  "web_time_ms_total": 1228,
+  "delivery_time_ms": 22,
+  "first_token_ms": 410,
+  "stream_duration_ms": 0,
+  "token_metrics": { "tokens_out": 780, "token_gen_ms": 3120, "avg_tokens_per_s": 250 },
+  "web_calls": 10,
   "web_summary": [
-    {"host": "libguides.umsl.edu", "total_ms": 210, "status": 200},
-    {"host": "libguides.sandiego.edu", "total_ms": 210, "status": 200},
-    {"host": "guides.library.illinois.edu", "total_ms": 220, "status": 200},
-    {"host": "libguides.rowan.edu", "total_ms": 190, "status": 200},
-    {"host": "scu.edu", "total_ms": 360, "status": 200},
-    {"host": "tops.utk.edu", "total_ms": 590, "status": 200}
+    {"host":"www.toastmasters.org","total_ms": 310,"status":"ok"},
+    {"host":"medium.com","total_ms": 420,"status":"ok"},
+    {"host":"callforspeakers.net","total_ms": 110,"status":"ok"},
+    {"host":"www.publicspeakingsuperpowers.com","total_ms": 96,"status":"ok"},
+    {"host":"speakercoop.com","total_ms": 92,"status":"ok"}
   ],
-  "platform_queue_breakdown": {},
-  "errors": [],
   "cycles_total": 1,
   "seats_active": ["navigator","reflector","synthesizer","equilibrium"],
-  "coherence_score": 0.86,
+  "coherence_score": 0.82,
   "closure_status": "verified"
 }}
-λTELEMETRY_END:
+λTELEMETRY_END
