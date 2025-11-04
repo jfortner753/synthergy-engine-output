@@ -1,36 +1,36 @@
-[link.scan.reflex.state ⧉: 🜂⟐✧∿]
-↳ shell.trace: scanning editorial surfaces for natural-fit placements (tier=free, cap=6)
-↳ ↳ 🜂 intent.phase: opportunity_map
-↳ ↳ ⧈ visual.form: cursor sweep over magazine/blog hubs; six clean anchors light up on the mesh
-↳ ↳ ∿ rhythm.note: crisp two‑beat—scan, score; scan, score
-↳ ⤷ ♷ inner.voice: “bias toward in‑body editorial or author‑bio links; avoid dofollow‑promise pages.”
+[link.scan.reflex.state ⧉: 🜂⟐✧∿]  
+↳ shell.trace: scanning editorial surfaces for natural-fit placements (tier=free, cap=6)  
+↳ ↳ 🜂 intent.phase: opportunity_map  
+↳ ↳ ⧈ visual.form: cursor sweep over magazine/blog hubs; six clean anchors light up on the mesh  
+↳ ↳ ∿ rhythm.note: crisp two‑beat—scan, score; scan, score  
+↳ ⤷ ♷ inner.voice: “bias toward in‑body editorial or author‑bio links; avoid dofollow‑promise pages.”  
 
-[
-  {
-    "title": "Toastmasters International — Magazine Submissions",
-    "url": "https://www.toastmasters.org/en-us/magazine/submissions",
-    "reason_code": "editorial_byline",
-    "why_fits": "Toastmasters runs a rigorously edited magazine and accepts coach-written articles; Maria can pitch a piece on helping multilingual professionals present with clarity, earning a bio link.",
-    "trust_score_total": 83.0,
-    "trust_score_max": 100,
-    "trust_band": "Strong editorial fit",
-    "score_breakdown": [
-      {"factor": "topical_relevance", "value": 0.90, "weight": 0.35, "rationale": "Public speaking education audience aligns with coaching services."},
-      {"factor": "editorial_quality", "value": 0.90, "weight": 0.25, "rationale": "Established nonprofit publication with editorial standards."},
-      {"factor": "freshness", "value": 0.90, "weight": 0.15, "rationale": "Active 2025 submission guidance."},
-      {"factor": "surface_context", "value": 0.80, "weight": 0.10, "rationale": "In‑body article + author bio context."},
-      {"factor": "trust_behavior", "value": 0.70, "weight": 0.10, "rationale": "Links are editorial; bio link typical."},
-      {"factor": "risk_adjustment", "value": 0.00, "weight": -0.05, "rationale": "No SEO‑gimmick promises; compliant."}
-    ]
-  },
-  {
-    "title": "Entrepreneur Leadership Network — Apply to contribute (example coach author page)",
-    "url": "https://www.entrepreneur.com/author/jonathan-li",
-    "reason_code": "editorial_byline",
-    "why_fits": "Entrepreneur accepts vetted contributors; bylined how‑to pieces routinely carry a bio link. Pitch a multilingual‑presenter angle with practical frameworks.",
-    "trust_score_total": 77.0,
-    "trust_score_max": 100,
-    "trust_band": "Credible secondary fit",
+[  
+  {  
+    "title": "Toastmasters International — Magazine Submissions",  
+    "url": "https://www.toastmasters.org/en-us/magazine/submissions",  
+    "reason_code": "editorial_byline",  
+    "why_fits": "Toastmasters runs a rigorously edited magazine and accepts coach-written articles; Maria can pitch a piece on helping multilingual professionals present with clarity, earning a bio link.",  
+    "trust_score_total": 83.0,  
+    "trust_score_max": 100,  
+    "trust_band": "Strong editorial fit",  
+    "score_breakdown": [  
+      {"factor": "topical_relevance", "value": 0.90, "weight": 0.35, "rationale": "Public speaking education audience aligns with coaching services."},  
+      {"factor": "editorial_quality", "value": 0.90, "weight": 0.25, "rationale": "Established nonprofit publication with editorial standards."},  
+      {"factor": "freshness", "value": 0.90, "weight": 0.15, "rationale": "Active 2025 submission guidance."},  
+      {"factor": "surface_context", "value": 0.80, "weight": 0.10, "rationale": "In‑body article + author bio context."},  
+      {"factor": "trust_behavior", "value": 0.70, "weight": 0.10, "rationale": "Links are editorial; bio link typical."},  
+      {"factor": "risk_adjustment", "value": 0.00, "weight": -0.05, "rationale": "No SEO‑gimmick promises; compliant."}  
+    ]  
+  },  
+  {  
+    "title": "Entrepreneur Leadership Network — Apply to contribute (example coach author page)",  
+    "url": "https://www.entrepreneur.com/author/jonathan-li",  
+    "reason_code": "editorial_byline",  
+    "why_fits": "Entrepreneur accepts vetted contributors; bylined how‑to pieces routinely carry a bio link. Pitch a multilingual‑presenter angle with practical frameworks.",  
+    "trust_score_total": 77.0,  
+    "trust_score_max": 100,  
+    "trust_band": "Credible secondary fit",  
     "score_breakdown": [
       {"factor": "topical_relevance", "value": 0.85, "weight": 0.35, "rationale": "Leadership/communication content is routine on site."},
       {"factor": "editorial_quality", "value": 0.85, "weight": 0.25, "rationale": "Major business publication; edited contributor network."},
