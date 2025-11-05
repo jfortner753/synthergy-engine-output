@@ -1,4 +1,4 @@
-
+https://publicspeakingwithmaria.com | public speaking coach
 [
   {
     "title": "Presentation Guru — digital magazine for presenters",
@@ -65,7 +65,7 @@
 
 
 
-
+https://bookboost.io | hospitality technology
 [
   {
     "title": "Hotel Yearbook (HYB) 2026 — contributed trend article (deadline Nov 21, 2025)",
@@ -126,5 +126,69 @@
     "trust_band": "medium",
     "competitor_relation": "authority",
     "host_competition_index": 0.00
+  }
+]
+
+https://carboncloud.com | climate & foodtech
+[
+  {
+    "title": "Trellis (formerly GreenBiz) — Editorial contributions",
+    "url": "https://trellis.net/editorial-guidelines/",
+    "reason_code": "editorial_openness_contributed",
+    "why_fits": "Business‑sustainability audience open to expert case studies on Scope 3, supplier engagement, and food value‑chain decarbonization; non‑promotional, evidence‑based pieces.",
+    "trust_score_total": 90.0,
+    "trust_band": "high",
+    "competitor_relation": "amplifier",
+    "host_competition_index": 0.03
+  },
+  {
+    "title": "Sustainable Brands — Submit an editorial proposal",
+    "url": "https://sustainablebrands.com/writers-guide",
+    "reason_code": "editorial_openness_contributed",
+    "why_fits": "Seeks practitioner lessons with metrics; good venue for PCF/Scope 3 outcomes in F&B and retailer programs.",
+    "trust_score_total": 86.0,
+    "trust_band": "high",
+    "competitor_relation": "amplifier",
+    "host_competition_index": 0.05
+  },
+  {
+    "title": "Food Dive — Opinion submissions",
+    "url": "https://www.fooddive.com/opinion/submit-opinion/",
+    "reason_code": "opinion_submission_form",
+    "why_fits": "Food industry decision‑makers; timely op‑eds on supplier data quality, labeling, and Scope 3 for brands/retailers.",
+    "trust_score_total": 84.0,
+    "trust_band": "high",
+    "competitor_relation": "amplifier",
+    "host_competition_index": 0.05
+  },
+  {
+    "title": "Food Industry Executive — Contributed articles",
+    "url": "https://foodindustryexecutive.com/submit-an-article/",
+    "reason_code": "editorial_openness_contributed",
+    "why_fits": "Explicitly invites expert submissions on sustainability and digital tools for processors/manufacturers; allows byline link.",
+    "trust_score_total": 80.0,
+    "trust_band": "high",
+    "competitor_relation": "amplifier",
+    "host_competition_index": 0.05
+  },
+  {
+    "title": "Progressive Grocer — Guest articles",
+    "url": "https://progressivegrocer.com/contributing-writer-guidelines-progressive-grocer",
+    "reason_code": "editorial_openness_contributed",
+    "why_fits": "Retail audience; angle on retailer‑supplier collaboration for Scope 3 and climate‑smart assortments.",
+    "trust_score_total": 76.0,
+    "trust_band": "medium",
+    "competitor_relation": "amplifier",
+    "host_competition_index": 0.08
+  },
+  {
+    "title": "Packaging Europe — Content submissions",
+    "url": "https://packagingeurope.com/submissions",
+    "reason_code": "editorial_openness_contributed",
+    "why_fits": "Strong fit for packaging‑related footprint reductions and labeling integrity in food supply chains.",
+    "trust_score_total": 74.0,
+    "trust_band": "medium",
+    "competitor_relation": "amplifier",
+    "host_competition_index": 0.07
   }
 ]
