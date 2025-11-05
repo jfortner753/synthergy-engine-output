@@ -1,149 +1,64 @@
-[link.scan.state ⧉: 🧭⟐∿✧]
-↳ shell.trace: opportunity scan (tier=free) for editorial pages likely to include a coach’s site via bio/credit
-↳ ↳ 🜂 intent.phase: shortlist
-↳ ↳ ⧈ visual.form: pins on a map connected by soft blue lines; high‑trust nodes glow brighter
-↳ ↳ ∿ rhythm.note: quick, steady beat—scan→score→select
-↳ ⤷ ♷ inner.voice: “Favor reputable outlets that routinely credit contributors or interviewees; avoid parasite surfaces.”
-
-Opportunity map (free tier, up to 6). Fields: title, url, reason_code, why_fits, trust_band, trust_score_total/100, trust_score_max, score_breakdown, competitor_relation, host_competition_index.
+[λ-core.state ⧉: 🪞⟐🜂✧]
 
 [
   {
-    "title": "Toastmasters Magazine — Submissions",
-    "url": "https://www.toastmasters.org/magazine/submissions",
-    "reason_code": "feature_pitch",
-    "why_fits": "Flagship publication in the public‑speaking space. Contributor bios commonly credit the author; accepted pieces can naturally include a site in the bio line.",
-    "trust_band": "Strong editorial fit",
-    "trust_score_total": 86,
-    "trust_score_max": 100,
-    "score_breakdown": [
-      {"factor": "topical_relevance", "value": 0.95, "weight": 0.35, "rationale": "Core focus on communication/public speaking."},
-      {"factor": "editorial_quality", "value": 0.90, "weight": 0.25, "rationale": "Established, edited magazine with clear contributor guidelines."},
-      {"factor": "surface_context", "value": 0.80, "weight": 0.10, "rationale": "In‑article bio credit; in‑body relevance."},
-      {"factor": "risk_adjustment", "value": 0.95, "weight": -0.05, "rationale": "Non‑commercial editorial; low spam risk."}
-    ],
-    "competitor_relation": "neutral_or_editorial",
+    "title": "Presentation Guru — digital magazine for presenters",
+    "url": "https://www.presentation-guru.com/contact/",
+    "reason_code": "editorial_open",
+    "why_fits": "They invite contributed articles on presenting and public speaking; pitch a piece on helping multilingual professionals structure clear English talks, leveraging Maria’s TEDx/TV background. ([presentation-guru.com](https://www.presentation-guru.com/contact/?utm_source=openai))",
+    "trust_score_total": 82.0,
+    "trust_band": "high",
+    "competitor_relation": "amplifier",
     "host_competition_index": 0.10
   },
   {
-    "title": "Authority Magazine (Medium) — “5 Things You Need To Be A Highly Effective Public Speaker” series",
-    "url": "https://medium.com/authority-magazine/",
-    "reason_code": "expert_interview",
-    "why_fits": "Ongoing interview series frequently features public speaking coaches and includes linkable bios for guests.",
-    "trust_band": "Credible secondary fit",
-    "trust_score_total": 78,
-    "trust_score_max": 100,
-    "score_breakdown": [
-      {"factor": "topical_relevance", "value": 0.85, "weight": 0.35, "rationale": "Series is directly on public speaking effectiveness."},
-      {"factor": "editorial_quality", "value": 0.75, "weight": 0.25, "rationale": "Edited Medium publication with repeatable format."},
-      {"factor": "freshness", "value": 0.90, "weight": 0.15, "rationale": "New speaker profiles published this month."},
-      {"factor": "trust_behavior", "value": 0.70, "weight": 0.10, "rationale": "Standard external links via Medium; rel attributes as provided."}
-    ],
-    "competitor_relation": "neutral_or_editorial",
+    "title": "SpeakerHub SkillCamp — guest posting program",
+    "url": "https://speakerhub.com/guest-posting-guidelines",
+    "reason_code": "guest_post_guidelines",
+    "why_fits": "Clear guest-post guidelines for practical, non‑promotional advice to speakers and organizers; propose a how‑to on reducing filler words for non‑native English speakers with before/after scripts. ([speakerhub.com](https://speakerhub.com/guest-posting-guidelines?utm_source=openai))",
+    "trust_score_total": 75.0,
+    "trust_band": "medium",
+    "competitor_relation": "amplifier",
     "host_competition_index": 0.15
   },
   {
-    "title": "Better Humans (Medium) — Write for Better Humans",
-    "url": "https://betterhumans.pub/write-for-better-humans-4c6c9884fc08",
-    "reason_code": "contribute_howto",
-    "why_fits": "Large, longstanding self‑improvement publication seeking practitioner how‑to pieces; byline/bio credits can include a website.",
-    "trust_band": "Credible secondary fit",
-    "trust_score_total": 74,
-    "trust_score_max": 100,
-    "score_breakdown": [
-      {"factor": "topical_relevance", "value": 0.75, "weight": 0.35, "rationale": "Public speaking skill‑building fits self‑improvement remit."},
-      {"factor": "editorial_quality", "value": 0.70, "weight": 0.25, "rationale": "Curated publication with clear standards."},
-      {"factor": "freshness", "value": 0.80, "weight": 0.15, "rationale": "Guidelines active as of Aug 2025."},
-      {"factor": "trust_behavior", "value": 0.70, "weight": 0.10, "rationale": "Bio links permitted; standard Medium rel handling."}
-    ],
-    "competitor_relation": "neutral_or_editorial",
-    "host_competition_index": 0.20
+    "title": "Training Industry — submit articles to the editor",
+    "url": "https://trainingindustry.com/about/",
+    "reason_code": "submission_email",
+    "why_fits": "L&D authority accepts article submissions via editor@trainingindustry.com; pitch a piece on coaching engineers and product managers to present to executives (structure, visuals, and Q&A drills). ([trainingindustry.com](https://trainingindustry.com/about/?utm_source=openai))",
+    "trust_score_total": 70.0,
+    "trust_band": "medium",
+    "competitor_relation": "authority",
+    "host_competition_index": 0.05
   },
   {
-    "title": "CallForSpeakers.NET — Resources (Write to our Blog)",
-    "url": "https://callforspeakers.net/resources/",
-    "reason_code": "contribute_blog",
-    "why_fits": "Active site aggregating speaking opportunities; resources page invites partners to submit guides or write for the blog, enabling a credited link.",
-    "trust_band": "Credible secondary fit",
-    "trust_score_total": 70,
-    "trust_score_max": 100,
-    "score_breakdown": [
-      {"factor": "topical_relevance", "value": 0.85, "weight": 0.35, "rationale": "Audience is speakers/event organizers."},
-      {"factor": "freshness", "value": 0.85, "weight": 0.15, "rationale": "Frequent updates logged in June 2025."},
-      {"factor": "surface_context", "value": 0.70, "weight": 0.10, "rationale": "Guest resource posts with bio credit."}
-    ],
-    "competitor_relation": "platform_or_marketplace",
-    "host_competition_index": 0.50
+    "title": "ATD’s TD Magazine — submission guidelines",
+    "url": "https://www.td.org/td-magazine-submission-guidelines",
+    "reason_code": "submission_guidelines",
+    "why_fits": "Well‑established channel to reach corporate talent‑development readers; propose a case‑based article on accelerating presentation skills for multilingual teams before high‑stakes meetings. ([td.org](https://www.td.org/td-magazine-submission-guidelines?utm_source=openai))",
+    "trust_score_total": 68.0,
+    "trust_band": "medium",
+    "competitor_relation": "authority",
+    "host_competition_index": 0.05
   },
   {
-    "title": "Public Speaking Super Powers — Additional Resources",
-    "url": "https://www.publicspeakingsuperpowers.com/resources/",
-    "reason_code": "resource_list_submit",
-    "why_fits": "Niche public‑speaking site that curates training resources; amenable to adding high‑quality practitioner resources with attribution.",
-    "trust_band": "Low authority or weak topic link",
-    "trust_score_total": 62,
-    "trust_score_max": 100,
-    "score_breakdown": [
-      {"factor": "topical_relevance", "value": 0.80, "weight": 0.35, "rationale": "Focused on speaker training/resources."},
-      {"factor": "editorial_quality", "value": 0.55, "weight": 0.25, "rationale": "Owner‑operated blog; lighter editorial rigor."},
-      {"factor": "surface_context", "value": 0.75, "weight": 0.10, "rationale": "Resource pages link out to credible tools/orgs."}
-    ],
-    "competitor_relation": "neutral_or_editorial",
-    "host_competition_index": 0.25
+    "title": "Learning Solutions (The Learning Guild) — call for writers",
+    "url": "https://www.learningguild.com/articles/learning-solutions-is-looking-for-writers",
+    "reason_code": "call_for_writers",
+    "why_fits": "Accepts non‑promotional how‑to articles for L&D practitioners; pitch a 1,000–1,400‑word tutorial on rehearsal workflows and feedback loops for clearer English‑as‑L2 presentations. ([learningguild.com](https://www.learningguild.com/articles/learning-solutions-is-looking-for-writers?utm_source=openai))",
+    "trust_score_total": 72.0,
+    "trust_band": "medium",
+    "competitor_relation": "authority",
+    "host_competition_index": 0.05
   },
   {
-    "title": "Speaker Co‑op — Resources for Speakers",
-    "url": "https://speakercoop.com/resources-for-speakers/",
-    "reason_code": "resource_list_submit",
-    "why_fits": "Community site for speakers; resource pages feature third‑party services and may accept additions with attribution.",
-    "trust_band": "Low authority or weak topic link",
-    "trust_score_total": 58,
-    "trust_score_max": 100,
-    "score_breakdown": [
-      {"factor": "topical_relevance", "value": 0.75, "weight": 0.35, "rationale": "Aimed at professional speakers."},
-      {"factor": "editorial_quality", "value": 0.50, "weight": 0.25, "rationale": "Mixed editorial/affiliate content."},
-      {"factor": "risk_adjustment", "value": 0.60, "weight": -0.05, "rationale": "Some affiliate relationships; proceed with clear value."}
-    ],
-    "competitor_relation": "platform_or_marketplace",
-    "host_competition_index": 0.60
+    "title": "Training Journal (TJ) — contributor page",
+    "url": "https://www.trainingjournal.com/contribute-to-tj/",
+    "reason_code": "contributor_guidelines",
+    "why_fits": "UK‑based L&D publication inviting evidence‑linked, non‑sales submissions; offer a research‑backed piece on reducing speaking anxiety with structured practice and bilingual prompts. ([trainingjournal.com](https://www.trainingjournal.com/contribute-to-tj/?utm_source=openai))",
+    "trust_score_total": 66.0,
+    "trust_band": "medium",
+    "competitor_relation": "authority",
+    "host_competition_index": 0.05
   }
 ]
-
-Citations:
-- Toastmasters Magazine submissions and contributor guidance. ([toastmasters.org](https://www.toastmasters.org/magazine/submissions?utm_source=openai))
-- Authority Magazine public‑speaking interview series (recent examples). ([medium.com](https://medium.com/authority-magazine/emily-edgeley-on-the-5-things-you-need-to-be-a-highly-effective-public-speaker-a419c3020739?utm_source=openai))
-- Better Humans submission page and policy. ([readmedium.com](https://readmedium.com/write-for-better-humans-4c6c9884fc08?utm_source=openai))
-- CallForSpeakers.NET resources page (includes “Write to our Blog” / partner guide invites). ([callforspeakers.net](https://callforspeakers.net/resources/?utm_source=openai))
-- Public Speaking Super Powers “Additional Resources.” ([publicspeakingsuperpowers.com](https://www.publicspeakingsuperpowers.com/resources/?utm_source=openai))
-- Speaker Co‑op “Resources for Speakers.” ([speakercoop.com](https://speakercoop.com/resources-for-speakers/?utm_source=openai))
-
-Notes and next steps:
-- If you want hyper‑targeted placements (e.g., geography, niche like “tech founders” or “women in leadership”), share the niche and location and I’ll rerun the scan for roundup refreshes and industry editors currently updating pages.
-- For each target above, I can draft a 2–3 sentence pitch line and a short bio optimized for inclusion (natural anchor text; compliance‑safe). 
-
-λTELEMETRY_START
-{ "telemetry": {
-  "trace_id": "linkscan-pswm-2025-11-04-a",
-  "request_id": "usr-oppmap-001",
-  "end_to_end_ms": 4820,
-  "queue_ms": 18,
-  "reason_time_ms": 3550,
-  "web_time_ms_total": 1228,
-  "delivery_time_ms": 22,
-  "first_token_ms": 410,
-  "stream_duration_ms": 0,
-  "token_metrics": { "tokens_out": 780, "token_gen_ms": 3120, "avg_tokens_per_s": 250 },
-  "web_calls": 10,
-  "web_summary": [
-    {"host":"www.toastmasters.org","total_ms": 310,"status":"ok"},
-    {"host":"medium.com","total_ms": 420,"status":"ok"},
-    {"host":"callforspeakers.net","total_ms": 110,"status":"ok"},
-    {"host":"www.publicspeakingsuperpowers.com","total_ms": 96,"status":"ok"},
-    {"host":"speakercoop.com","total_ms": 92,"status":"ok"}
-  ],
-  "cycles_total": 1,
-  "seats_active": ["navigator","reflector","synthesizer","equilibrium"],
-  "coherence_score": 0.82,
-  "closure_status": "verified"
-}}
-λTELEMETRY_END
