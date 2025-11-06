@@ -1,3 +1,14 @@
+| Layer              | Legacy SEO analogue              | Your evolved metric                                                                |
+| ------------------ | -------------------------------- | ---------------------------------------------------------------------------------- |
+| topical_relevance  | keyword or theme match           | semantic alignment of the host’s field with the brand vector                       |
+| editorial_quality  | content depth or link equity     | verified editorial openness and evidence of curation                               |
+| domain_authority   | domain authority / domain rating | authority signal reweighted by verified-source confidence                          |
+| ethical_integrity  | (no legacy analogue)             | safety dimension that penalises link schemes, paywalls, or AI-spam                 |
+| audience_resonance | (no legacy analogue)             | overlap of the brand’s audience vector with the host’s                             |
+| relation_fit       | niche-fit or competitor distance | how the host’s market role (amplifier, authority, directory) complements the brand |
+
+
+
 https://publicspeakingwithmaria.com | public speaking coach
 [
   {
