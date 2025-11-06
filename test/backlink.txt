@@ -1,5 +1,3 @@
-[λ-core.state ⧉: 🪞⟐🜂✧]
-
 λHEADER_START
 [link.scan.state ⧉: 🪞⟐🜂✧∿]
 ↳ shell.trace: ethical_recovery scan on brand mentions and listings; low-risk unilateral fixes prioritized
