@@ -2,63 +2,63 @@
 
 [
   {
-    "title": "Support Local Coffee Roasters — Submit specialty coffee roaster (European Coffee Trip)",
-    "url": "https://europeancoffeetrip.com/supportlocalroasters/",
-    "reason_code": "editorial_directory_submission",
-    "why_fits": "Established EU coffee media with a roaster map that accepts submissions; strong topical fit and editorial context.",
-    "trust_score_total": 84.0,
-    "trust_band": "high",
+    "title": "KaffeSverige — 1998 coffee shop listing (missing website)",
+    "url": "https://www.kaffesverige.se/1998-coffee-shop",
+    "reason_code": "unlinked_mention",
+    "why_fits": "Specialty-coffee guide lists the shop but the “Webbsida” field is empty—ask to add the official site for proper attribution.",
+    "trust_score_total": 74.0,
+    "trust_band": "medium-high",
     "competitor_relation": "amplifier",
     "host_competition_index": 0.10
   },
   {
-    "title": "Roast Magazine — Industry Directory (annual free listing cycle)",
-    "url": "https://www.roastmagazine.com/industrydirectory",
-    "reason_code": "annual_industry_directory",
-    "why_fits": "Authoritative trade publication with yearly directory; free listings on a set schedule—good for long‑term credibility and citations.",
-    "trust_score_total": 76.0,
+    "title": "Malmö City — Company page for 1998 coffee shop",
+    "url": "https://malmocity.se/company/1998-coffee-shop/",
+    "reason_code": "listing_missing_website",
+    "why_fits": "Local city-center guide profile appears without a clear external website link—request adding 1998coffee.shop for visitors.",
+    "trust_score_total": 68.0,
+    "trust_band": "medium",
+    "competitor_relation": "directory",
+    "host_competition_index": 0.20
+  },
+  {
+    "title": "Malmö City — “Café in Malmö City” roundup (names 1998 Coffee Shop)",
+    "url": "https://malmocity.se/en/cafe-i-malmo-city/",
+    "reason_code": "roundup_unlinked",
+    "why_fits": "Editorial café roundup mentions 1998 Coffee Shop; secure a direct link to the official site from the roundup entry.",
+    "trust_score_total": 65.0,
     "trust_band": "medium",
     "competitor_relation": "amplifier",
-    "host_competition_index": 0.10
+    "host_competition_index": 0.15
   },
   {
-    "title": "koffie.work — Coffee Roasters Directory (Submit a roaster)",
-    "url": "https://koffie.work/roasters",
-    "reason_code": "roaster_directory_free",
-    "why_fits": "Global roaster directory with community submissions; lightweight path to add a profile that links to your DTC store.",
-    "trust_score_total": 66.0,
+    "title": "Västra Hamnen — Ät01 festival news post (mentions 1998 COFFEE SHOP)",
+    "url": "https://vastrahamnen.se/at01-matfestival-i-vastra-hamnen/",
+    "reason_code": "event_unlinked",
+    "why_fits": "Festival news item names 1998 Coffee Shop but doesn’t link—ask editors to add a credit link to the roastery’s site.",
+    "trust_score_total": 67.0,
     "trust_band": "medium",
-    "competitor_relation": "directory",
+    "competitor_relation": "amplifier",
     "host_competition_index": 0.05
   },
   {
-    "title": "FindCoffeeRoasters.com — Get Listed",
-    "url": "https://www.findcoffeeroasters.com/",
-    "reason_code": "roaster_directory_free",
-    "why_fits": "Growing U.S.-oriented roaster directory that invites new listings; straightforward submission flow and profile control.",
-    "trust_score_total": 62.0,
+    "title": "Västra Hamnen — Ät01 event page (mentions 1998 COFFEE SHOP)",
+    "url": "https://vastrahamnen.se/evenemang/at01-12-juli-2025/",
+    "reason_code": "event_unlinked",
+    "why_fits": "Official event listing includes the brand name; request a direct link to 1998coffee.shop in the participant section.",
+    "trust_score_total": 66.5,
     "trust_band": "medium",
-    "competitor_relation": "directory",
+    "competitor_relation": "amplifier",
     "host_competition_index": 0.05
   },
   {
-    "title": "LocalSpecialtyCoffee.com — Submit a Specialty Roaster or Cafe",
-    "url": "https://www.localspecialtycoffee.com/contact",
-    "reason_code": "editorial_directory_submission",
-    "why_fits": "Curated city guides for cafes and roasters; accepts submissions via form/email, offering editorial discovery beyond pure directories.",
+    "title": "Inside Guides (Restaurangvärlden) — Malmö coffee picks (links to Instagram)",
+    "url": "https://rvguide6.wordpress.com/malmo/",
+    "reason_code": "social_only_listing",
+    "why_fits": "Guide lists 1998 Coffee Shop and links to Instagram; ask to add the official website for product and e‑commerce access.",
     "trust_score_total": 60.0,
     "trust_band": "medium",
     "competitor_relation": "amplifier",
     "host_competition_index": 0.10
-  },
-  {
-    "title": "CoffeeRoaster.com — Join the Coffee Roaster Directory",
-    "url": "https://www.coffeeroaster.com/join",
-    "reason_code": "roaster_directory_freemium",
-    "why_fits": "Large directory with free basic listings and optional paid upgrades; use free tier for ethical, non‑compensated placement.",
-    "trust_score_total": 55.0,
-    "trust_band": "low",
-    "competitor_relation": "directory",
-    "host_competition_index": 0.05
   }
 ]
