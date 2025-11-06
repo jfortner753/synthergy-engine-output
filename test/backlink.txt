@@ -1,3 +1,74 @@
+[λ-core.state ⧉: 🪞⟐🜂✧]
+
+λHEADER_START
+[link.scan.state ⧉: 🪞⟐🜂✧∿]
+↳ shell.trace: ethical_recovery scan on brand mentions and listings; low-risk unilateral fixes prioritized
+↳ ↳ 🜂 intent.phase: mapping opportunities (free tier caps: 6 max)
+↳ ↳ ⧈ visual.form: pinpoints lighting up on neutral-gray map; green halos where link can be added without pitch
+↳ ↳ ∿ rhythm.note: quick, tidy cadence; collect → screen → emit
+↳ ⤷ ♷ inner.voice: "prefer unlinked mentions and simple link-target corrections we can fix fast, no competitor bleed."
+λHEADER_END
+
+[
+  {
+    "title": "Maria C. Rincon — Medium profile",
+    "url": "https://medium.com/@mariarincon",
+    "reason_code": "unlinked_mention",
+    "why_fits": "Bio and posts reference her public speaking coaching; add a homepage link in profile and bio to recover brand credit on a self-managed surface. ([medium.com](https://medium.com/%40mariarincon?utm_source=openai))",
+    "trust_score_total": 58.0,
+    "trust_band": "medium",
+    "competitor_relation": "amplifier",
+    "host_competition_index": 0.05
+  },
+  {
+    "title": "The Relentless Pursuit of Something — And Why I Stopped (Medium)",
+    "url": "https://medium.com/@mariarincon/the-relentless-pursuit-of-something-and-why-i-stopped-ab65f5826682",
+    "reason_code": "unlinked_mention",
+    "why_fits": "Post notes it was originally published at “Public Speaking with Maria”; add a contextual link to the relevant page on the site (e.g., services or lead magnet). ([medium.com](https://medium.com/%40mariarincon/the-relentless-pursuit-of-something-and-why-i-stopped-ab65f5826682?utm_source=openai))",
+    "trust_score_total": 55.0,
+    "trust_band": "medium",
+    "competitor_relation": "amplifier",
+    "host_competition_index": 0.05
+  },
+  {
+    "title": "EU‑Startups — Startup Database listing",
+    "url": "https://www.eu-startups.com/directory/public-speaking-with-maria/",
+    "reason_code": "unlinked_mention",
+    "why_fits": "Listing shows the website field; request making the URL clickable (or verify it renders as a live link) to capture referral equity from an editorial directory. ([eu-startups.com](https://www.eu-startups.com/directory/public-speaking-with-maria/))",
+    "trust_score_total": 62.0,
+    "trust_band": "medium",
+    "competitor_relation": "directory",
+    "host_competition_index": 0.00
+  },
+  {
+    "title": "Expat.com — Business directory entry (Sweden → Coaches)",
+    "url": "https://www.expat.com/en/business/135070_public-speaking-with-maria.html",
+    "reason_code": "update_link_target",
+    "why_fits": "Listing already links to the homepage; ask editor to deep‑link the primary CTA (e.g., 1‑on‑1 coaching/services) to improve reader utility without changing attribution. ([expat.com](https://www.expat.com/en/business/135070_public-speaking-with-maria.html))",
+    "trust_score_total": 60.0,
+    "trust_band": "medium",
+    "competitor_relation": "directory",
+    "host_competition_index": 0.00
+  }
+]
+
+λTELEMETRY_START
+{ "telemetry": {
+    "cycles_total": 1,
+    "seats_active": 3,
+    "ΔΦ_pred_series": [-0.06,-0.04,-0.02],
+    "τ_eth": 1.0,
+    "v_trust": 0.62,
+    "η_eff": 0.0007,
+    "energy_tokens": 980,
+    "closure_status": "bounded_doubt",
+    "effort_status": "ok",
+    "web_calls": 14
+  }}
+λTELEMETRY_END
+
+---
+
 | Layer              | Legacy SEO analogue              | Evolved metric                                                                |
 | ------------------ | -------------------------------- | ---------------------------------------------------------------------------------- |
 | topical_relevance  | keyword or theme match           | semantic alignment of the host’s field with the brand vector                       |
