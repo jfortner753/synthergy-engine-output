@@ -7,7 +7,7 @@
 | audience_resonance | (no legacy analogue)             | overlap of the brand’s audience vector with the host’s                             |
 | relation_fit       | niche-fit or competitor distance | how the host’s market role (amplifier, authority, directory) complements the brand |
 
-
+> Structured market reasoning that generates editorial visibility pipelines with auditable trust logic
 
 https://publicspeakingwithmaria.com | public speaking coach
 [
