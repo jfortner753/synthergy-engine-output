@@ -1,0 +1,64 @@
+[λ-core.state ⧉: 🪞⟐🜂✧]
+
+[
+  {
+    "title": "European Coffee Trip — 1998 coffee shop profile",
+    "url": "https://europeancoffeetrip.com/cafe/1998-malmo/",
+    "reason_code": "unlinked_mention",
+    "why_fits": "Respected specialty coffee directory lists 1998 but shows no website link; ask them to add https://1998coffee.shop so readers can find your roastery and shop. ([europeancoffeetrip.com](https://europeancoffeetrip.com/cafe/1998-malmo/?utm_source=openai))",
+    "trust_score_total": 82.0,
+    "trust_band": "High",
+    "competitor_relation": "amplifier",
+    "host_competition_index": 0.05
+  },
+  {
+    "title": "Malmö City — 1998 coffee shop (company profile)",
+    "url": "https://malmocity.se/en/company/1998-coffee-shop/",
+    "reason_code": "missing_website_link",
+    "why_fits": "Official city directory profile lists address and socials but no website; request adding your homepage to drive visitors and event bookings. ([malmocity.se](https://malmocity.se/en/company/1998-coffee-shop/?utm_source=openai))",
+    "trust_score_total": 74.0,
+    "trust_band": "Medium",
+    "competitor_relation": "directory",
+    "host_competition_index": 0.10
+  },
+  {
+    "title": "Kaffesverige — 1998 coffee shop listing",
+    "url": "https://www.kaffesverige.se/1998-coffee-shop",
+    "reason_code": "missing_website_field",
+    "why_fits": "Swedish specialty-coffee guide shows an empty “Webbsida:” field; ask them to populate it with https://1998coffee.shop. ([kaffesverige.se](https://www.kaffesverige.se/1998-coffee-shop?utm_source=openai))",
+    "trust_score_total": 71.0,
+    "trust_band": "Medium",
+    "competitor_relation": "authority",
+    "host_competition_index": 0.08
+  },
+  {
+    "title": "Malmö City — ‘Café i Malmö City’ roundup",
+    "url": "https://malmocity.se/en/cafe-i-malmo-city/",
+    "reason_code": "unlinked_mention",
+    "why_fits": "Editorial roundup mentions “1998 Coffee Shop – Davidshall” without a link; ask to make it clickable to your profile or website. ([malmocity.se](https://malmocity.se/en/cafe-i-malmo-city/?utm_source=openai))",
+    "trust_score_total": 68.0,
+    "trust_band": "Medium",
+    "competitor_relation": "amplifier",
+    "host_competition_index": 0.08
+  },
+  {
+    "title": "StickerApp — 1998 Coffee Roasters endorsement",
+    "url": "https://stickerapp.com/endorsements/1998-coffee-roasters",
+    "reason_code": "unlinked_mention",
+    "why_fits": "Brand feature highlights 1998 but contains no outgoing link to your site; request a homepage link in the intro. ([stickerapp.com](https://stickerapp.com/endorsements/1998-coffee-roasters?utm_source=openai))",
+    "trust_score_total": 60.0,
+    "trust_band": "Medium",
+    "competitor_relation": "amplifier",
+    "host_competition_index": 0.05
+  },
+  {
+    "title": "Inside Guides (WordPress) — Malmö café list",
+    "url": "https://rvguide6.wordpress.com/malmo/",
+    "reason_code": "unlinked_mention",
+    "why_fits": "Local guide lists 1998 Coffee Shop with address only; ask to hyperlink the café name to your website. ([rvguide6.wordpress.com](https://rvguide6.wordpress.com/malmo/?utm_source=openai))",
+    "trust_score_total": 55.0,
+    "trust_band": "Low",
+    "competitor_relation": "amplifier",
+    "host_competition_index": 0.05
+  }
+]
