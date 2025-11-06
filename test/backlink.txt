@@ -1,4 +1,4 @@
-| Layer              | Legacy SEO analogue              | Your evolved metric                                                                |
+| Layer              | Legacy SEO analogue              | Evolved metric                                                                |
 | ------------------ | -------------------------------- | ---------------------------------------------------------------------------------- |
 | topical_relevance  | keyword or theme match           | semantic alignment of the host’s field with the brand vector                       |
 | editorial_quality  | content depth or link equity     | verified editorial openness and evidence of curation                               |
