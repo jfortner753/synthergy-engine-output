@@ -1,3 +1,68 @@
+[λ-core.state ⧉: 🪞⟐🜂✧]
+
+[
+  {
+    "title": "Advanced Public Speaking Institute — Public Speaking Resources",
+    "url": "https://www.public-speaking.org/speaking-resources.php",
+    "reason_code": "broken_replace",
+    "why_fits": "Long, older resource list with multiple outdated/low‑relevance external links suggests maintenance gaps; offer a current, evidence‑based anxiety guide from PublicSpeakingWithMaria to replace/repair dead items. ([public-speaking.org](https://www.public-speaking.org/speaking-resources.php?utm_source=openai))",
+    "trust_score_total": 58.4,
+    "trust_band": "medium",
+    "competitor_relation": "directory",
+    "host_competition_index": 0.10
+  },
+  {
+    "title": "University of Hawai‘i Maui — The Public Speakers’ Page",
+    "url": "https://www.hawaii.edu/mauispeech/",
+    "reason_code": "broken_replace",
+    "why_fits": "Legacy resource hub last revised in 2006; likely contains link rot. Propose updated, student‑friendly replacements (e.g., a clear anxiety/how‑to article) where old references 404 or are obsolete. ([hawaii.edu](https://www.hawaii.edu/mauispeech/?utm_source=openai))",
+    "trust_score_total": 64.8,
+    "trust_band": "medium",
+    "competitor_relation": "authority",
+    "host_competition_index": 0.06
+  },
+  {
+    "title": "Butler University Libraries — Public Speaking Tips & Strategies (LibGuide)",
+    "url": "https://libguides.butler.edu/publicspeaking",
+    "reason_code": "update_link_suggestion",
+    "why_fits": "Curated academic guide that welcomes updates; suggest adding a current, practical guide on reducing speaking anxiety for learners. Ethical ‘fix/improve’ vs. pitch. ([libguides.butler.edu](https://libguides.butler.edu/publicspeaking?utm_source=openai))",
+    "trust_score_total": 72.1,
+    "trust_band": "high",
+    "competitor_relation": "authority",
+    "host_competition_index": 0.05
+  },
+  {
+    "title": "UMSL — COMM 1040 Public Speaking (LibGuide)",
+    "url": "https://libguides.umsl.edu/publicspeaking",
+    "reason_code": "update_link_suggestion",
+    "why_fits": "Shared/attributable LibGuide based on Butler’s template; editors periodically refresh links and examples—offer a modern, non‑commercial anxiety resource for inclusion. ([libguides.umsl.edu](https://libguides.umsl.edu/publicspeaking?utm_source=openai))",
+    "trust_score_total": 70.6,
+    "trust_band": "high",
+    "competitor_relation": "authority",
+    "host_competition_index": 0.05
+  },
+  {
+    "title": "Santa Clara University — HUB Writing Center: Public Speaking Resources",
+    "url": "https://www.scu.edu/provost/writingcenter/resources/public-speaking-resources/",
+    "reason_code": "update_link_suggestion",
+    "why_fits": "Active university resource page organized by speaking phases; adding a concise, actionable anxiety guide improves the ‘Calming Your Nerves’ section. ([scu.edu](https://www.scu.edu/provost/writingcenter/resources/public-speaking-resources/?utm_source=openai))",
+    "trust_score_total": 69.2,
+    "trust_band": "high",
+    "competitor_relation": "authority",
+    "host_competition_index": 0.05
+  },
+  {
+    "title": "University of Alaska Fairbanks — Communication Center Guides",
+    "url": "https://www.uaf.edu/speak/resources/",
+    "reason_code": "update_link_suggestion",
+    "why_fits": "Departmental guide that surfaces practical checklists; editors routinely refresh links—offer a clear, up‑to‑date article on audience focus and anxiety reduction. ([uaf.edu](https://www.uaf.edu/speak/resources/?utm_source=openai))",
+    "trust_score_total": 66.7,
+    "trust_band": "medium",
+    "competitor_relation": "authority",
+    "host_competition_index": 0.05
+  }
+]
+
 [
   {
     "title": "European Coffee Trip — 1998 coffee shop profile",
