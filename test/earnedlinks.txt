@@ -2,188 +2,63 @@
 
 [
   {
-    "title": "Measures of Success: SaaS Metrics & Benchmarks Resource Guide (OpenView)",
-    "url": "https://openviewpartners.com/blog/saas-metrics-and-resources/",
-    "reason_code": "resource_refresh_candidate",
-    "why_fits": "High-quality resource hub that explains core B2B SaaS metrics; editors often update guides and add authoritative citations. Calqulate’s MRR/churn docs can serve as fresh references.",
-    "trust_score_total": 82.0,
+    "title": "Malmö City — 1998 coffee shop (company page)",
+    "url": "https://malmocity.se/company/1998-coffee-shop/",
+    "reason_code": "unlinked_listing",
+    "why_fits": "Official city directory entry names the café but shows no homepage link; ask to add https://1998coffee.shop for visitors. ([malmocity.se](https://malmocity.se/company/1998-coffee-shop/))",
     "trust_band": "high",
+    "trust_score_total": 76.0,
+    "competitor_relation": "amplifier",
+    "host_competition_index": 0.05
+  },
+  {
+    "title": "KaffeSverige — 1998 coffee shop (specialty coffee guide)",
+    "url": "https://www.kaffesverige.se/1998-coffee-shop",
+    "reason_code": "unlinked_listing",
+    "why_fits": "Entry shows “Webbsida:” with no link; request adding the official site to help readers and tours find you. ([kaffesverige.se](https://www.kaffesverige.se/1998-coffee-shop))",
+    "trust_band": "medium",
+    "trust_score_total": 69.0,
+    "competitor_relation": "directory",
+    "host_competition_index": 0.10
+  },
+  {
+    "title": "Västra Hamnen — Ät01 festival news post (mentions 1998 COFFEE SHOP)",
+    "url": "https://vastrahamnen.se/at01-matfestival-i-vastra-hamnen/",
+    "reason_code": "event_mention_unlinked",
+    "why_fits": "Festival lineup names 1998 COFFEE SHOP without a homepage link; ask editors to add your site in the participant list. ([vastrahamnen.se](https://vastrahamnen.se/at01-matfestival-i-vastra-hamnen/))",
+    "trust_band": "medium",
+    "trust_score_total": 62.0,
+    "competitor_relation": "amplifier",
+    "host_competition_index": 0.05
+  },
+  {
+    "title": "Inside Guides (Restaurangvärlden) — Malmö picks",
+    "url": "https://rvguide6.wordpress.com/malmo/",
+    "reason_code": "mention_links_to_social",
+    "why_fits": "Guide lists 1998 Coffee Shop but links to Instagram; ask to add or switch to your homepage for DTC orders. ([rvguide6.wordpress.com](https://rvguide6.wordpress.com/malmo/))",
+    "trust_band": "medium",
+    "trust_score_total": 58.0,
     "competitor_relation": "amplifier",
     "host_competition_index": 0.10
   },
   {
-    "title": "SaaS Metrics Glossary (Alexander Jarvis)",
-    "url": "https://www.alexanderjarvis.com/resources/collections/saas-metrics-glossary/",
-    "reason_code": "resource_refresh_candidate",
-    "why_fits": "Independent glossary with dozens of metric entries; accepts ongoing content updates and external references. Opportunity to cite Calqulate’s definitions for MRR, churn, CAC.",
-    "trust_score_total": 65.0,
-    "trust_band": "medium",
-    "competitor_relation": "amplifier",
-    "host_competition_index": 0.15
-  },
-  {
-    "title": "What are SaaS Metrics? (Pilot.com Glossary)",
-    "url": "https://pilot.com/glossary/saas-metrics",
-    "reason_code": "resource_refresh_candidate",
-    "why_fits": "Vendor glossary covering key SaaS KPIs; pages are periodically refreshed and may link to authoritative explainers. Propose Calqulate docs for precise formulas and examples.",
-    "trust_score_total": 68.0,
-    "trust_band": "medium",
-    "competitor_relation": "amplifier",
+    "title": "Infoo.se — Kowty Coffee AB (company directory)",
+    "url": "https://infoo.se/organisation/5594540063",
+    "reason_code": "directory_unlinked",
+    "why_fits": "Directory lists company and address (c/o 1998 Coffee Shop) but no website; request adding your URL for discovery. ([infoo.se](https://infoo.se/organisation/5594540063?utm_source=openai))",
+    "trust_band": "low",
+    "trust_score_total": 48.0,
+    "competitor_relation": "directory",
     "host_competition_index": 0.20
   },
   {
-    "title": "A–Z of SaaS Metrics (Totango Glossary)",
-    "url": "https://www.totango.com/glossary/saas-metrics",
-    "reason_code": "resource_refresh_candidate",
-    "why_fits": "Customer-success vendor with an active glossary; articles often include further-reading links. Suggest Calqulate’s churn/NRR documentation as neutral references.",
-    "trust_score_total": 70.0,
-    "trust_band": "medium",
-    "competitor_relation": "amplifier",
-    "host_competition_index": 0.18
-  },
-  {
-    "title": "Free MRR Spreadsheet Calculator (Coefficient)",
-    "url": "https://coefficient.io/calculate/monthly-recurring-revenue-mrr",
-    "reason_code": "related_tool_add_citation",
-    "why_fits": "Calculator page that explains MRR and links to guides; adding Calqulate’s MRR and growth-breakout docs provides deeper methodology for readers.",
-    "trust_score_total": 62.0,
-    "trust_band": "medium",
-    "competitor_relation": "amplifier",
-    "host_competition_index": 0.12
-  },
-  {
-    "title": "MRR Calculator and Guide (mrr-calculator.com)",
-    "url": "https://mrr-calculator.com/",
-    "reason_code": "related_tool_add_citation",
-    "why_fits": "Educational calculator with a long-form explainer on MRR types and formulas; editors can add external citations. Calqulate documentation strengthens definitions and examples.",
-    "trust_score_total": 60.0,
-    "trust_band": "medium",
-    "competitor_relation": "amplifier",
-    "host_competition_index": 0.10
-  }
-]
-[
-  {
-    "title": "Advanced Public Speaking Institute — Public Speaking Resources",
-    "url": "https://www.public-speaking.org/speaking-resources.php",
-    "reason_code": "broken_replace",
-    "why_fits": "Long, older resource list with multiple outdated/low‑relevance external links suggests maintenance gaps; offer a current, evidence‑based anxiety guide from PublicSpeakingWithMaria to replace/repair dead items. ([public-speaking.org](https://www.public-speaking.org/speaking-resources.php?utm_source=openai))",
-    "trust_score_total": 58.4,
-    "trust_band": "medium",
+    "title": "Kompass — Kowty Coffee AB (B2B listing)",
+    "url": "https://co.kompass.com/c/kowty-coffee-ab/secom1507479/",
+    "reason_code": "directory_unlinked",
+    "why_fits": "B2B profile shows the shop name and address but no site link; adding your homepage can capture wholesale/event leads. ([co.kompass.com](https://co.kompass.com/c/kowty-coffee-ab/secom1507479/?utm_source=openai))",
+    "trust_band": "low",
+    "trust_score_total": 46.0,
     "competitor_relation": "directory",
-    "host_competition_index": 0.10
-  },
-  {
-    "title": "University of Hawai‘i Maui — The Public Speakers’ Page",
-    "url": "https://www.hawaii.edu/mauispeech/",
-    "reason_code": "broken_replace",
-    "why_fits": "Legacy resource hub last revised in 2006; likely contains link rot. Propose updated, student‑friendly replacements (e.g., a clear anxiety/how‑to article) where old references 404 or are obsolete. ([hawaii.edu](https://www.hawaii.edu/mauispeech/?utm_source=openai))",
-    "trust_score_total": 64.8,
-    "trust_band": "medium",
-    "competitor_relation": "authority",
-    "host_competition_index": 0.06
-  },
-  {
-    "title": "Butler University Libraries — Public Speaking Tips & Strategies (LibGuide)",
-    "url": "https://libguides.butler.edu/publicspeaking",
-    "reason_code": "update_link_suggestion",
-    "why_fits": "Curated academic guide that welcomes updates; suggest adding a current, practical guide on reducing speaking anxiety for learners. Ethical ‘fix/improve’ vs. pitch. ([libguides.butler.edu](https://libguides.butler.edu/publicspeaking?utm_source=openai))",
-    "trust_score_total": 72.1,
-    "trust_band": "high",
-    "competitor_relation": "authority",
-    "host_competition_index": 0.05
-  },
-  {
-    "title": "UMSL — COMM 1040 Public Speaking (LibGuide)",
-    "url": "https://libguides.umsl.edu/publicspeaking",
-    "reason_code": "update_link_suggestion",
-    "why_fits": "Shared/attributable LibGuide based on Butler’s template; editors periodically refresh links and examples—offer a modern, non‑commercial anxiety resource for inclusion. ([libguides.umsl.edu](https://libguides.umsl.edu/publicspeaking?utm_source=openai))",
-    "trust_score_total": 70.6,
-    "trust_band": "high",
-    "competitor_relation": "authority",
-    "host_competition_index": 0.05
-  },
-  {
-    "title": "Santa Clara University — HUB Writing Center: Public Speaking Resources",
-    "url": "https://www.scu.edu/provost/writingcenter/resources/public-speaking-resources/",
-    "reason_code": "update_link_suggestion",
-    "why_fits": "Active university resource page organized by speaking phases; adding a concise, actionable anxiety guide improves the ‘Calming Your Nerves’ section. ([scu.edu](https://www.scu.edu/provost/writingcenter/resources/public-speaking-resources/?utm_source=openai))",
-    "trust_score_total": 69.2,
-    "trust_band": "high",
-    "competitor_relation": "authority",
-    "host_competition_index": 0.05
-  },
-  {
-    "title": "University of Alaska Fairbanks — Communication Center Guides",
-    "url": "https://www.uaf.edu/speak/resources/",
-    "reason_code": "update_link_suggestion",
-    "why_fits": "Departmental guide that surfaces practical checklists; editors routinely refresh links—offer a clear, up‑to‑date article on audience focus and anxiety reduction. ([uaf.edu](https://www.uaf.edu/speak/resources/?utm_source=openai))",
-    "trust_score_total": 66.7,
-    "trust_band": "medium",
-    "competitor_relation": "authority",
-    "host_competition_index": 0.05
-  }
-]
-
-[
-  {
-    "title": "European Coffee Trip — 1998 coffee shop profile",
-    "url": "https://europeancoffeetrip.com/cafe/1998-malmo/",
-    "reason_code": "unlinked_mention",
-    "why_fits": "Respected specialty coffee directory lists 1998 but shows no website link; ask them to add https://1998coffee.shop so readers can find your roastery and shop. ([europeancoffeetrip.com](https://europeancoffeetrip.com/cafe/1998-malmo/?utm_source=openai))",
-    "trust_score_total": 82.0,
-    "trust_band": "High",
-    "competitor_relation": "amplifier",
-    "host_competition_index": 0.05
-  },
-  {
-    "title": "Malmö City — 1998 coffee shop (company profile)",
-    "url": "https://malmocity.se/en/company/1998-coffee-shop/",
-    "reason_code": "missing_website_link",
-    "why_fits": "Official city directory profile lists address and socials but no website; request adding your homepage to drive visitors and event bookings. ([malmocity.se](https://malmocity.se/en/company/1998-coffee-shop/?utm_source=openai))",
-    "trust_score_total": 74.0,
-    "trust_band": "Medium",
-    "competitor_relation": "directory",
-    "host_competition_index": 0.10
-  },
-  {
-    "title": "Kaffesverige — 1998 coffee shop listing",
-    "url": "https://www.kaffesverige.se/1998-coffee-shop",
-    "reason_code": "missing_website_field",
-    "why_fits": "Swedish specialty-coffee guide shows an empty “Webbsida:” field; ask them to populate it with https://1998coffee.shop. ([kaffesverige.se](https://www.kaffesverige.se/1998-coffee-shop?utm_source=openai))",
-    "trust_score_total": 71.0,
-    "trust_band": "Medium",
-    "competitor_relation": "authority",
-    "host_competition_index": 0.08
-  },
-  {
-    "title": "Malmö City — ‘Café i Malmö City’ roundup",
-    "url": "https://malmocity.se/en/cafe-i-malmo-city/",
-    "reason_code": "unlinked_mention",
-    "why_fits": "Editorial roundup mentions “1998 Coffee Shop – Davidshall” without a link; ask to make it clickable to your profile or website. ([malmocity.se](https://malmocity.se/en/cafe-i-malmo-city/?utm_source=openai))",
-    "trust_score_total": 68.0,
-    "trust_band": "Medium",
-    "competitor_relation": "amplifier",
-    "host_competition_index": 0.08
-  },
-  {
-    "title": "StickerApp — 1998 Coffee Roasters endorsement",
-    "url": "https://stickerapp.com/endorsements/1998-coffee-roasters",
-    "reason_code": "unlinked_mention",
-    "why_fits": "Brand feature highlights 1998 but contains no outgoing link to your site; request a homepage link in the intro. ([stickerapp.com](https://stickerapp.com/endorsements/1998-coffee-roasters?utm_source=openai))",
-    "trust_score_total": 60.0,
-    "trust_band": "Medium",
-    "competitor_relation": "amplifier",
-    "host_competition_index": 0.05
-  },
-  {
-    "title": "Inside Guides (WordPress) — Malmö café list",
-    "url": "https://rvguide6.wordpress.com/malmo/",
-    "reason_code": "unlinked_mention",
-    "why_fits": "Local guide lists 1998 Coffee Shop with address only; ask to hyperlink the café name to your website. ([rvguide6.wordpress.com](https://rvguide6.wordpress.com/malmo/?utm_source=openai))",
-    "trust_score_total": 55.0,
-    "trust_band": "Low",
-    "competitor_relation": "amplifier",
-    "host_competition_index": 0.05
+    "host_competition_index": 0.25
   }
 ]
