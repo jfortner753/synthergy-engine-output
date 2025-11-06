@@ -2,6 +2,68 @@
 
 [
   {
+    "title": "Measures of Success: SaaS Metrics & Benchmarks Resource Guide (OpenView)",
+    "url": "https://openviewpartners.com/blog/saas-metrics-and-resources/",
+    "reason_code": "resource_refresh_candidate",
+    "why_fits": "High-quality resource hub that explains core B2B SaaS metrics; editors often update guides and add authoritative citations. Calqulate’s MRR/churn docs can serve as fresh references.",
+    "trust_score_total": 82.0,
+    "trust_band": "high",
+    "competitor_relation": "amplifier",
+    "host_competition_index": 0.10
+  },
+  {
+    "title": "SaaS Metrics Glossary (Alexander Jarvis)",
+    "url": "https://www.alexanderjarvis.com/resources/collections/saas-metrics-glossary/",
+    "reason_code": "resource_refresh_candidate",
+    "why_fits": "Independent glossary with dozens of metric entries; accepts ongoing content updates and external references. Opportunity to cite Calqulate’s definitions for MRR, churn, CAC.",
+    "trust_score_total": 65.0,
+    "trust_band": "medium",
+    "competitor_relation": "amplifier",
+    "host_competition_index": 0.15
+  },
+  {
+    "title": "What are SaaS Metrics? (Pilot.com Glossary)",
+    "url": "https://pilot.com/glossary/saas-metrics",
+    "reason_code": "resource_refresh_candidate",
+    "why_fits": "Vendor glossary covering key SaaS KPIs; pages are periodically refreshed and may link to authoritative explainers. Propose Calqulate docs for precise formulas and examples.",
+    "trust_score_total": 68.0,
+    "trust_band": "medium",
+    "competitor_relation": "amplifier",
+    "host_competition_index": 0.20
+  },
+  {
+    "title": "A–Z of SaaS Metrics (Totango Glossary)",
+    "url": "https://www.totango.com/glossary/saas-metrics",
+    "reason_code": "resource_refresh_candidate",
+    "why_fits": "Customer-success vendor with an active glossary; articles often include further-reading links. Suggest Calqulate’s churn/NRR documentation as neutral references.",
+    "trust_score_total": 70.0,
+    "trust_band": "medium",
+    "competitor_relation": "amplifier",
+    "host_competition_index": 0.18
+  },
+  {
+    "title": "Free MRR Spreadsheet Calculator (Coefficient)",
+    "url": "https://coefficient.io/calculate/monthly-recurring-revenue-mrr",
+    "reason_code": "related_tool_add_citation",
+    "why_fits": "Calculator page that explains MRR and links to guides; adding Calqulate’s MRR and growth-breakout docs provides deeper methodology for readers.",
+    "trust_score_total": 62.0,
+    "trust_band": "medium",
+    "competitor_relation": "amplifier",
+    "host_competition_index": 0.12
+  },
+  {
+    "title": "MRR Calculator and Guide (mrr-calculator.com)",
+    "url": "https://mrr-calculator.com/",
+    "reason_code": "related_tool_add_citation",
+    "why_fits": "Educational calculator with a long-form explainer on MRR types and formulas; editors can add external citations. Calqulate documentation strengthens definitions and examples.",
+    "trust_score_total": 60.0,
+    "trust_band": "medium",
+    "competitor_relation": "amplifier",
+    "host_competition_index": 0.10
+  }
+]
+[
+  {
     "title": "Advanced Public Speaking Institute — Public Speaking Resources",
     "url": "https://www.public-speaking.org/speaking-resources.php",
     "reason_code": "broken_replace",
