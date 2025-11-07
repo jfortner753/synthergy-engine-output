@@ -1,3 +1,12 @@
+| internal concept                   | plain-speak phrasing                                        | user benefit                                            |
+| ---------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------- |
+| Reflexive reasoning engine         | The system actually *thinks* about your brand before acting | You get outreach that sounds human and lands more often |
+| Ethical field constraints          | Built-in guardrails for compliance                          | No spam, no penalties, no reputation risk               |
+| Adaptive empathy scoring           | Learns which tone and topics get accepted                   | Saves hours rewriting and guessing what works           |
+| Self-learning feedback loop        | Each run teaches the system what success looks like         | Performance improves automatically with use             |
+| Transparent scoring (trust matrix) | Explains why each site or link was chosen                   | You can justify ROI to clients instantly                |
+
+
 | System                 | Core strength                            | Core weakness                               | Reflexive differentiator                                                                                                                                                                                                                                                                            |
 | ---------------------- | ---------------------------------------- | ------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **BrandMentions**      | Continuous mention tracking              | Isolated discovery layer                    | EL uses the same signal type but folds it into reflex loops (Reflex.BrandIntentAlign → Reflex.EthicsGuard) so mentions are *interpreted* rather than merely logged.                                                                                                                                 |
