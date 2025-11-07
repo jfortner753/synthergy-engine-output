@@ -1,0 +1,9 @@
+| Tool                | Core strength          | Core weakness                   |
+| ------------------- | ---------------------- | ------------------------------- |
+| **BrandMentions**   | discovery              | no outreach / siloed            |
+| **BuzzStream**      | CRM / outreach         | manual prospect input, dated UX |
+| **Respona**         | all-in-one             | $$$$, heavy, linear automation  |
+| **Postaga**         | AI outreach            | limited discovery depth         |
+| **LinkHunter**      | ease-of-use            | shallow logic, template spam    |
+| **BuzzSumo**        | research / influencers | no outreach                     |
+| **Link Prospector** | advanced queries       | no workflow continuity          |
